@@ -22,7 +22,9 @@ DATA_LINKS = [
 SLICES = [
   {
     slice: 'langs',
-    items: ['ruby', 'python', 'golang', 'java', 'elixir', 'php', 'javascript', 'objective-c', 'swift', 'erlang', 'haskell', 'rust', 'coffeescript', 'c\\+\\+', 'scala']
+    items: [
+      'ruby', 'python', 'golang', 'java', 'elixir', 'php', 'javascript', 'objective-c', 'swift', 'erlang', 'haskell', 'rust', 'coffeescript', 'c\\+\\+', 'scala', 'closure'
+    ]
   },
   {
     slice: 'jsFrameworks',

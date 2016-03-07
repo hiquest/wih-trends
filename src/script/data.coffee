@@ -556,6 +556,43 @@ window.hnData = [
                         "count": 69
                     }
                 ]
+            },
+            {
+                "item": "closure",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 2
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 1
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 1
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 2
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 3
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 0
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 3
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 2
+                    }
+                ]
             }
         ]
     },
@@ -632,7 +669,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 79
+                        "count": 81
                     }
                 ]
             },
@@ -901,7 +938,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 219
+                        "count": 221
                     }
                 ]
             },

@@ -6,31 +6,35 @@ window.hnData = [
                 "item": "ruby",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 153
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 152
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 129
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 101
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 56
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 67
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 101
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 120
                     }
                 ]
@@ -39,31 +43,35 @@ window.hnData = [
                 "item": "python",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 244
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 232
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 189
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 165
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 98
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 118
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 177
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 167
                     }
                 ]
@@ -72,31 +80,35 @@ window.hnData = [
                 "item": "golang",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 6
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 10
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 19
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 17
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 15
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 11
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 11
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 16
                     }
                 ]
@@ -105,32 +117,36 @@ window.hnData = [
                 "item": "java",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 327
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 261
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 239
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 294
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 137
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 137
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 245
                     },
                     {
-                        "month": "March",
-                        "count": 278
+                        "month": "Mar'16",
+                        "count": 281
                     }
                 ]
             },
@@ -138,31 +154,35 @@ window.hnData = [
                 "item": "elixir",
                 "data": [
                     {
-                        "month": "September",
-                        "count": 2
-                    },
-                    {
-                        "month": "October",
-                        "count": 9
-                    },
-                    {
-                        "month": "November",
-                        "count": 2
-                    },
-                    {
-                        "month": "December",
-                        "count": 2
-                    },
-                    {
-                        "month": "January",
-                        "count": 3
-                    },
-                    {
-                        "month": "February",
+                        "month": "Aug'15",
                         "count": 4
                     },
                     {
-                        "month": "March",
+                        "month": "Sep'15",
+                        "count": 2
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 9
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 2
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 2
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 3
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 4
+                    },
+                    {
+                        "month": "Mar'16",
                         "count": 12
                     }
                 ]
@@ -171,31 +191,35 @@ window.hnData = [
                 "item": "php",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 102
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 67
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 82
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 58
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 31
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 32
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 58
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 69
                     }
                 ]
@@ -204,32 +228,36 @@ window.hnData = [
                 "item": "javascript",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 198
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 158
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 149
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 165
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 89
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 97
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 160
                     },
                     {
-                        "month": "March",
-                        "count": 188
+                        "month": "Mar'16",
+                        "count": 189
                     }
                 ]
             },
@@ -237,31 +265,35 @@ window.hnData = [
                 "item": "objective-c",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 10
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 12
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 11
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 9
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 2
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 1
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 5
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 11
                     }
                 ]
@@ -270,31 +302,35 @@ window.hnData = [
                 "item": "swift",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 23
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 24
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 38
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 19
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 18
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 10
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 17
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 31
                     }
                 ]
@@ -303,31 +339,35 @@ window.hnData = [
                 "item": "erlang",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 10
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 13
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 10
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 7
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 4
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 9
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 10
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 15
                     }
                 ]
@@ -336,31 +376,35 @@ window.hnData = [
                 "item": "haskell",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 18
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 16
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 12
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 28
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 17
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 12
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 14
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 22
                     }
                 ]
@@ -369,31 +413,35 @@ window.hnData = [
                 "item": "rust",
                 "data": [
                     {
-                        "month": "September",
-                        "count": 28
-                    },
-                    {
-                        "month": "October",
-                        "count": 17
-                    },
-                    {
-                        "month": "November",
+                        "month": "Aug'15",
                         "count": 26
                     },
                     {
-                        "month": "December",
+                        "month": "Sep'15",
+                        "count": 28
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 17
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 26
+                    },
+                    {
+                        "month": "Dec'15",
                         "count": 13
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 27
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 33
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 30
                     }
                 ]
@@ -402,31 +450,35 @@ window.hnData = [
                 "item": "coffeescript",
                 "data": [
                     {
-                        "month": "September",
-                        "count": 18
-                    },
-                    {
-                        "month": "October",
+                        "month": "Aug'15",
                         "count": 22
                     },
                     {
-                        "month": "November",
+                        "month": "Sep'15",
+                        "count": 18
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 22
+                    },
+                    {
+                        "month": "Nov'15",
                         "count": 13
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 10
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 7
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 16
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 12
                     }
                 ]
@@ -435,31 +487,35 @@ window.hnData = [
                 "item": "c\\+\\+",
                 "data": [
                     {
-                        "month": "September",
-                        "count": 64
-                    },
-                    {
-                        "month": "October",
-                        "count": 44
-                    },
-                    {
-                        "month": "November",
-                        "count": 56
-                    },
-                    {
-                        "month": "December",
-                        "count": 36
-                    },
-                    {
-                        "month": "January",
-                        "count": 25
-                    },
-                    {
-                        "month": "February",
+                        "month": "Aug'15",
                         "count": 54
                     },
                     {
-                        "month": "March",
+                        "month": "Sep'15",
+                        "count": 64
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 44
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 56
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 36
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 25
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 54
+                    },
+                    {
+                        "month": "Mar'16",
                         "count": 59
                     }
                 ]
@@ -468,31 +524,35 @@ window.hnData = [
                 "item": "scala",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 101
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 96
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 82
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 81
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 46
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 41
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 68
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 69
                     }
                 ]
@@ -506,31 +566,35 @@ window.hnData = [
                 "item": "react",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 100
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 102
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 104
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 109
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 72
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 74
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 126
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 150
                     }
                 ]
@@ -539,32 +603,36 @@ window.hnData = [
                 "item": "angular",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 98
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 84
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 88
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 84
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 46
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 48
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 65
                     },
                     {
-                        "month": "March",
-                        "count": 78
+                        "month": "Mar'16",
+                        "count": 79
                     }
                 ]
             },
@@ -572,31 +640,35 @@ window.hnData = [
                 "item": "backbone",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 46
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 39
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 45
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 39
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 18
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 16
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 18
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 25
                     }
                 ]
@@ -605,31 +677,35 @@ window.hnData = [
                 "item": "ember",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 93
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 82
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 74
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 76
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 45
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 51
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 66
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 69
                     }
                 ]
@@ -638,31 +714,35 @@ window.hnData = [
                 "item": "knockout",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 3
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 2
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 2
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 4
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 1
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 0
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 0
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 3
                     }
                 ]
@@ -676,31 +756,35 @@ window.hnData = [
                 "item": "coffee",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 38
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 30
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 34
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 25
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 31
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 13
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 34
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 27
                     }
                 ]
@@ -709,31 +793,35 @@ window.hnData = [
                 "item": "typescript",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
                         "count": 1
                     },
                     {
-                        "month": "October",
+                        "month": "Sep'15",
+                        "count": 1
+                    },
+                    {
+                        "month": "Oct'15",
                         "count": 2
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 3
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 3
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 5
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 5
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 11
                     }
                 ]
@@ -742,31 +830,35 @@ window.hnData = [
                 "item": "es6",
                 "data": [
                     {
-                        "month": "September",
-                        "count": 12
-                    },
-                    {
-                        "month": "October",
-                        "count": 14
-                    },
-                    {
-                        "month": "November",
+                        "month": "Aug'15",
                         "count": 17
                     },
                     {
-                        "month": "December",
+                        "month": "Sep'15",
                         "count": 12
                     },
                     {
-                        "month": "January",
+                        "month": "Oct'15",
+                        "count": 14
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 17
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 12
+                    },
+                    {
+                        "month": "Jan'16",
                         "count": 7
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 16
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 15
                     }
                 ]
@@ -780,31 +872,35 @@ window.hnData = [
                 "item": "remote",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 240
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 221
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 183
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 212
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 111
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 142
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 198
                     },
                     {
-                        "month": "March",
+                        "month": "Mar'16",
                         "count": 219
                     }
                 ]
@@ -813,32 +909,36 @@ window.hnData = [
                 "item": "onsite",
                 "data": [
                     {
-                        "month": "September",
+                        "month": "Aug'15",
+                        "count": 395
+                    },
+                    {
+                        "month": "Sep'15",
                         "count": 388
                     },
                     {
-                        "month": "October",
+                        "month": "Oct'15",
                         "count": 360
                     },
                     {
-                        "month": "November",
+                        "month": "Nov'15",
                         "count": 434
                     },
                     {
-                        "month": "December",
+                        "month": "Dec'15",
                         "count": 240
                     },
                     {
-                        "month": "January",
+                        "month": "Jan'16",
                         "count": 255
                     },
                     {
-                        "month": "February",
+                        "month": "Feb'16",
                         "count": 400
                     },
                     {
-                        "month": "March",
-                        "count": 387
+                        "month": "Mar'16",
+                        "count": 388
                     }
                 ]
             }

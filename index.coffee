@@ -9,13 +9,14 @@ _ = require('underscore')
 
 # Configuration
 DATA_LINKS = [
-  { month: 'September', url: 'https://news.ycombinator.com/item?id=10152809' },
-  { month: 'October', url: 'https://news.ycombinator.com/item?id=10311580' },
-  { month: 'November', url: 'https://news.ycombinator.com/item?id=10492086' },
-  { month: 'December', url: 'https://news.ycombinator.com/item?id=10655740' },
-  { month: 'January', url: 'https://news.ycombinator.com/item?id=10822019' },
-  { month: 'February', url: 'https://news.ycombinator.com/item?id=11012044' },
-  { month: 'March', url: 'https://news.ycombinator.com/item?id=11202954' }
+  { month: "Aug'15", url: 'https://news.ycombinator.com/item?id=9996333' },
+  { month: "Sep'15", url: 'https://news.ycombinator.com/item?id=10152809' },
+  { month: "Oct'15", url: 'https://news.ycombinator.com/item?id=10311580' },
+  { month: "Nov'15", url: 'https://news.ycombinator.com/item?id=10492086' },
+  { month: "Dec'15", url: 'https://news.ycombinator.com/item?id=10655740' },
+  { month: "Jan'16", url: 'https://news.ycombinator.com/item?id=10822019' },
+  { month: "Feb'16", url: 'https://news.ycombinator.com/item?id=11012044' },
+  { month: "Mar'16", url: 'https://news.ycombinator.com/item?id=11202954' }
 ]
 
 SLICES = [

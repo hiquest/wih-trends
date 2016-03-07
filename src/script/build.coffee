@@ -19,3 +19,5 @@ $ ->
   drawChart($('#javascript-langs'), 'JavaScript Compiled Langs', hnData[2].data)
   drawChart($('#remote-vs-onsite'), 'Remote Vs. Onsite', hnData[3].data)
   drawChart($('#mobile'), 'Mobile', hnData[4].data)
+  drawChart($('#databases'), 'Databases', hnData[5].data)
+  drawChart($('#professions'), 'Professions', hnData[6].data)

@@ -57,6 +57,14 @@ SLICES = [
   {
     slice: 'mobile',
     items: ['ios', 'android']
+  },
+  {
+    slice: 'Databases',
+    items: ['postgres', 'mysql', 'sql server', 'oracle', 'mongo', 'redis', 'cassandra']
+  },
+  {
+    slice: 'Professions',
+    items: ['Software Engineer', 'Software Developer', 'Full-stack', 'Data Scien', 'Data Engineer', 'Devops']
   }
 ]
 

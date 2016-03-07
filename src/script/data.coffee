@@ -35,7 +35,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 15.34
+                        "count": 15.32
                     }
                 ]
             },
@@ -72,7 +72,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 21.17
+                        "count": 21.14
                     }
                 ]
             },
@@ -146,7 +146,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 35.87
+                        "count": 35.82
                     }
                 ]
             },
@@ -220,7 +220,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.75
+                        "count": 8.73
                     }
                 ]
             },
@@ -257,7 +257,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 24.21
+                        "count": 24.18
                     }
                 ]
             },
@@ -331,7 +331,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.93
+                        "count": 3.92
                     }
                 ]
             },
@@ -405,7 +405,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.79
+                        "count": 2.78
                     }
                 ]
             },
@@ -516,7 +516,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 7.48
+                        "count": 7.47
                     }
                 ]
             },
@@ -553,7 +553,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.75
+                        "count": 8.73
                     }
                 ]
             },
@@ -627,7 +627,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 4.31
+                        "count": 4.3
                     }
                 ]
             }
@@ -669,7 +669,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 19.14
+                        "count": 19.11
                     }
                 ]
             },
@@ -706,7 +706,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 10.27
+                        "count": 10.25
                     }
                 ]
             },
@@ -743,7 +743,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.17
+                        "count": 3.16
                     }
                 ]
             },
@@ -780,7 +780,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.75
+                        "count": 8.73
                     }
                 ]
             },
@@ -975,7 +975,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 28.01
+                        "count": 27.97
                     }
                 ]
             },
@@ -1012,7 +1012,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 49.56
+                        "count": 49.62
                     }
                 ]
             }
@@ -1054,7 +1054,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 23.19
+                        "count": 23.29
                     }
                 ]
             },
@@ -1091,7 +1091,498 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 18.25
+                        "count": 18.35
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "slice": "Databases",
+        "data": [
+            {
+                "item": "postgres",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 7.56
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 6.84
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 10.18
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 5.7
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 8.56
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 8.21
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 8.08
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 7.34
+                    }
+                ]
+            },
+            {
+                "item": "mysql",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 5.41
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 4.79
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 5.8
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 4.8
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 4.17
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 3.79
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 5.18
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 5.06
+                    }
+                ]
+            },
+            {
+                "item": "sql server",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 0.92
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 1.6
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 0.85
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 0.45
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 0.69
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 0.63
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 0.51
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 0.51
+                    }
+                ]
+            },
+            {
+                "item": "oracle",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 1.02
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 0.23
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 0.99
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 2.23
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 0.93
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 1.05
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 0.63
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 1.14
+                    }
+                ]
+            },
+            {
+                "item": "mongo",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 6.64
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 6.27
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 4.53
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 4.36
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 4.4
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 3.79
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 3.41
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 3.42
+                    }
+                ]
+            },
+            {
+                "item": "redis",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 6.44
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 5.25
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 6.22
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 4.8
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 5.56
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 3.79
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 5.56
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 4.43
+                    }
+                ]
+            },
+            {
+                "item": "cassandra",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 2.55
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 2.85
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 3.25
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 1.79
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 2.31
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 1.68
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 2.15
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 0.89
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "slice": "Professions",
+        "data": [
+            {
+                "item": "Software Engineer",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 24.82
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 26.45
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 35.64
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 25.7
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 34.72
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 32.42
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 28.28
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 29.87
+                    }
+                ]
+            },
+            {
+                "item": "Software Developer",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 4.7
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 4.45
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 3.96
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 3.58
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 3.94
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 4.21
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 2.9
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 3.42
+                    }
+                ]
+            },
+            {
+                "item": "Full-stack",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 10.73
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 10.49
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 13.3
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 7.6
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 10.42
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 10.32
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 10.48
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 11.52
+                    }
+                ]
+            },
+            {
+                "item": "Data Scien",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 9.91
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 11.97
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 12.87
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 10.39
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 14.58
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 12.42
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 12.5
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 11.52
+                    }
+                ]
+            },
+            {
+                "item": "Data Engineer",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 3.88
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 5.02
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 4.95
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 3.58
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 2.55
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 2.74
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 2.78
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 4.56
+                    }
+                ]
+            },
+            {
+                "item": "Devops",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 11.13
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 10.49
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 12.87
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 11.17
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 11.57
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 10.53
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 10.86
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 10.76
                     }
                 ]
             }

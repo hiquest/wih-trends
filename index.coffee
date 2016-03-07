@@ -20,6 +20,10 @@ SLICES = [
   {
     slice: 'jsFrameworks',
     items: ['react', 'angular', 'backbone']
+  },
+  {
+    slice: 'jsLangs',
+    items: ['coffee', 'typescript', 'es6']
   }
 ]
 

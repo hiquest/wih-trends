@@ -295,7 +295,7 @@ window.hnData = [
                     },
                     {
                         "month": "March",
-                        "count": 30
+                        "count": 31
                     }
                 ]
             },
@@ -493,7 +493,7 @@ window.hnData = [
                     },
                     {
                         "month": "March",
-                        "count": 68
+                        "count": 69
                     }
                 ]
             }
@@ -531,7 +531,7 @@ window.hnData = [
                     },
                     {
                         "month": "March",
-                        "count": 149
+                        "count": 150
                     }
                 ]
             },
@@ -598,6 +598,110 @@ window.hnData = [
                     {
                         "month": "March",
                         "count": 25
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "slice": "jsLangs",
+        "data": [
+            {
+                "item": "coffee",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 30
+                    },
+                    {
+                        "month": "October",
+                        "count": 34
+                    },
+                    {
+                        "month": "November",
+                        "count": 25
+                    },
+                    {
+                        "month": "December",
+                        "count": 31
+                    },
+                    {
+                        "month": "January",
+                        "count": 13
+                    },
+                    {
+                        "month": "February",
+                        "count": 34
+                    },
+                    {
+                        "month": "March",
+                        "count": 27
+                    }
+                ]
+            },
+            {
+                "item": "typescript",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 1
+                    },
+                    {
+                        "month": "October",
+                        "count": 2
+                    },
+                    {
+                        "month": "November",
+                        "count": 3
+                    },
+                    {
+                        "month": "December",
+                        "count": 3
+                    },
+                    {
+                        "month": "January",
+                        "count": 5
+                    },
+                    {
+                        "month": "February",
+                        "count": 5
+                    },
+                    {
+                        "month": "March",
+                        "count": 11
+                    }
+                ]
+            },
+            {
+                "item": "es6",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 12
+                    },
+                    {
+                        "month": "October",
+                        "count": 14
+                    },
+                    {
+                        "month": "November",
+                        "count": 17
+                    },
+                    {
+                        "month": "December",
+                        "count": 12
+                    },
+                    {
+                        "month": "January",
+                        "count": 7
+                    },
+                    {
+                        "month": "February",
+                        "count": 16
+                    },
+                    {
+                        "month": "March",
+                        "count": 15
                     }
                 ]
             }

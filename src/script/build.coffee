@@ -17,3 +17,9 @@ $ ->
     xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
     series: prepare(hnData[1].data)
   }
+
+  $('#jsl').highcharts {
+    title: { text: 'JavaScript Compiled Langs' },
+    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
+    series: prepare(hnData[2].data)
+  }

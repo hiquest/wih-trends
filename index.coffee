@@ -51,6 +51,7 @@ fetchPages = (cb) ->
       req { url: dl.url }, (error, response, body) ->
         throw 'Could not download data' if error
         dl.body = body
+        dl.count = countOccurrence(body, 'athing')
         done()
   async.series fns, cb
 
@@ -65,8 +66,9 @@ fetchPages ->
           data: DATA_LINKS.map (dl) ->
             {
               month: dl.month,
-              count: countOccurrence(dl.body, item)
+              count: countOccurrence(dl.body, item) / dl.count * 100
             }
         }
     }
+
   console.log JSON.stringify(out, null, 4)

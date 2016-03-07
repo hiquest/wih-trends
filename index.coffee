@@ -23,7 +23,23 @@ SLICES = [
   {
     slice: 'langs',
     items: [
-      'ruby', 'python', 'golang', 'java', 'elixir', 'php', 'javascript', 'objective-c', 'swift', 'erlang', 'haskell', 'rust', 'coffeescript', 'c\\+\\+', 'scala', 'closure'
+      'ruby',
+      'python',
+      'golang',
+      'java',
+      'elixir',
+      'php',
+      'javascript',
+      'objective-c',
+      'swift',
+      'erlang',
+      'haskell',
+      'rust',
+      'coffeescript',
+      'c\\+\\+',
+      'scala',
+      'closure',
+      'c#'
     ]
   },
   {
@@ -37,6 +53,10 @@ SLICES = [
   {
     slice: 'remoteVsOnsite',
     items: ['remote', 'onsite']
+  },
+  {
+    slice: 'mobile',
+    items: ['ios', 'android']
   }
 ]
 
@@ -44,6 +64,9 @@ SLICES = [
 countOccurrence = (body, item) ->
   re = new RegExp(item, 'gi')
   (body.match(re) || []).length
+
+round = (num) ->
+  Math.round(num * 100) / 100
 
 fetchPages = (cb) ->
   fns = DATA_LINKS.map (dl) ->
@@ -66,7 +89,7 @@ fetchPages ->
           data: DATA_LINKS.map (dl) ->
             {
               month: dl.month,
-              count: countOccurrence(dl.body, item) / dl.count * 100
+              count: round(countOccurrence(dl.body, item) / dl.count * 100)
             }
         }
     }

@@ -5,27 +5,17 @@ prepare = (data) ->
       data: lang.data.map (x) -> x.count
     }
 
+drawChart = ($cont, title, data) ->
+  $cont.highcharts {
+    title: { text: title },
+    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
+    yAxis: { title: { text: 'Mentions (%)' } },
+    series: prepare(data)
+  }
+
 $ ->
-  $('#langs').highcharts {
-    title: { text: 'Programming Languages' },
-    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
-    series: prepare(hnData[0].data)
-  }
-
-  $('#jsf').highcharts {
-    title: { text: 'JavaScript Frameworks' },
-    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
-    series: prepare(hnData[1].data)
-  }
-
-  $('#jsl').highcharts {
-    title: { text: 'JavaScript Compiled Langs' },
-    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
-    series: prepare(hnData[2].data)
-  }
-
-  $('#remote-vs-onsite').highcharts {
-    title: { text: 'Remote Vs. Onsite' },
-    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
-    series: prepare(hnData[3].data)
-  }
+  drawChart($('#programming-langs'), 'Programming Languages', hnData[0].data)
+  drawChart($('#javascript-frameworks'), 'JavaScript Frameworks', hnData[1].data)
+  drawChart($('#javascript-langs'), 'JavaScript Compiled Langs', hnData[2].data)
+  drawChart($('#remote-vs-onsite'), 'Remote Vs. Onsite', hnData[3].data)
+  drawChart($('#mobile'), 'Mobile', hnData[4].data)

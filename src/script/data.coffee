@@ -7,35 +7,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 15.628192032686414
+                        "count": 15.63
                     },
                     {
                         "month": "Sep'15",
-                        "count": 17.33181299885975
+                        "count": 17.33
                     },
                     {
                         "month": "Oct'15",
-                        "count": 18.246110325318245
+                        "count": 18.25
                     },
                     {
                         "month": "Nov'15",
-                        "count": 11.28491620111732
+                        "count": 11.28
                     },
                     {
                         "month": "Dec'15",
-                        "count": 12.962962962962962
+                        "count": 12.96
                     },
                     {
                         "month": "Jan'16",
-                        "count": 14.105263157894738
+                        "count": 14.11
                     },
                     {
                         "month": "Feb'16",
-                        "count": 12.75252525252525
+                        "count": 12.75
                     },
                     {
                         "month": "Mar'16",
-                        "count": 15.286624203821656
+                        "count": 15.34
                     }
                 ]
             },
@@ -44,35 +44,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 24.923391215526046
+                        "count": 24.92
                     },
                     {
                         "month": "Sep'15",
-                        "count": 26.45381984036488
+                        "count": 26.45
                     },
                     {
                         "month": "Oct'15",
-                        "count": 26.732673267326735
+                        "count": 26.73
                     },
                     {
                         "month": "Nov'15",
-                        "count": 18.435754189944134
+                        "count": 18.44
                     },
                     {
                         "month": "Dec'15",
-                        "count": 22.685185185185187
+                        "count": 22.69
                     },
                     {
                         "month": "Jan'16",
-                        "count": 24.842105263157897
+                        "count": 24.84
                     },
                     {
                         "month": "Feb'16",
-                        "count": 22.348484848484848
+                        "count": 22.35
                     },
                     {
                         "month": "Mar'16",
-                        "count": 21.273885350318473
+                        "count": 21.17
                     }
                 ]
             },
@@ -81,35 +81,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 0.6128702757916241
+                        "count": 0.61
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.1402508551881414
+                        "count": 1.14
                     },
                     {
                         "month": "Oct'15",
-                        "count": 2.6874115983026874
+                        "count": 2.69
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.899441340782123
+                        "count": 1.9
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.4722222222222223
+                        "count": 3.47
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.3157894736842106
+                        "count": 2.32
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.3888888888888888
+                        "count": 1.39
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.038216560509554
+                        "count": 2.03
                     }
                 ]
             },
@@ -118,35 +118,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 33.40143003064352
+                        "count": 33.4
                     },
                     {
                         "month": "Sep'15",
-                        "count": 29.760547320410492
+                        "count": 29.76
                     },
                     {
                         "month": "Oct'15",
-                        "count": 33.80480905233381
+                        "count": 33.8
                     },
                     {
                         "month": "Nov'15",
-                        "count": 32.849162011173185
+                        "count": 32.85
                     },
                     {
                         "month": "Dec'15",
-                        "count": 31.712962962962965
+                        "count": 31.71
                     },
                     {
                         "month": "Jan'16",
-                        "count": 28.842105263157897
+                        "count": 28.84
                     },
                     {
                         "month": "Feb'16",
-                        "count": 30.934343434343436
+                        "count": 30.93
                     },
                     {
                         "month": "Mar'16",
-                        "count": 35.796178343949045
+                        "count": 35.87
                     }
                 ]
             },
@@ -155,35 +155,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 0.40858018386108275
+                        "count": 0.41
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.22805017103762829
+                        "count": 0.23
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.272984441301273
+                        "count": 1.27
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.22346368715083798
+                        "count": 0.22
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.4629629629629629
+                        "count": 0.46
                     },
                     {
                         "month": "Jan'16",
-                        "count": 0.631578947368421
+                        "count": 0.63
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.5050505050505051
+                        "count": 0.51
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.5286624203821657
+                        "count": 1.52
                     }
                 ]
             },
@@ -192,35 +192,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 10.41879468845761
+                        "count": 10.42
                     },
                     {
                         "month": "Sep'15",
-                        "count": 7.639680729760548
+                        "count": 7.64
                     },
                     {
                         "month": "Oct'15",
-                        "count": 11.598302687411598
+                        "count": 11.6
                     },
                     {
                         "month": "Nov'15",
-                        "count": 6.4804469273743015
+                        "count": 6.48
                     },
                     {
                         "month": "Dec'15",
-                        "count": 7.175925925925926
+                        "count": 7.18
                     },
                     {
                         "month": "Jan'16",
-                        "count": 6.7368421052631575
+                        "count": 6.74
                     },
                     {
                         "month": "Feb'16",
-                        "count": 7.3232323232323235
+                        "count": 7.32
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.789808917197451
+                        "count": 8.75
                     }
                 ]
             },
@@ -229,35 +229,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 20.224719101123593
+                        "count": 20.22
                     },
                     {
                         "month": "Sep'15",
-                        "count": 18.015963511972636
+                        "count": 18.02
                     },
                     {
                         "month": "Oct'15",
-                        "count": 21.074964639321074
+                        "count": 21.07
                     },
                     {
                         "month": "Nov'15",
-                        "count": 18.435754189944134
+                        "count": 18.44
                     },
                     {
                         "month": "Dec'15",
-                        "count": 20.60185185185185
+                        "count": 20.6
                     },
                     {
                         "month": "Jan'16",
-                        "count": 20.42105263157895
+                        "count": 20.42
                     },
                     {
                         "month": "Feb'16",
-                        "count": 20.2020202020202
+                        "count": 20.2
                     },
                     {
                         "month": "Mar'16",
-                        "count": 24.076433121019107
+                        "count": 24.21
                     }
                 ]
             },
@@ -266,35 +266,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 1.0214504596527068
+                        "count": 1.02
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.3683010262257698
+                        "count": 1.37
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.5558698727015559
+                        "count": 1.56
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.005586592178771
+                        "count": 1.01
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.4629629629629629
+                        "count": 0.46
                     },
                     {
                         "month": "Jan'16",
-                        "count": 0.21052631578947367
+                        "count": 0.21
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.6313131313131313
+                        "count": 0.63
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.4012738853503186
+                        "count": 1.39
                     }
                 ]
             },
@@ -303,35 +303,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 2.3493360572012256
+                        "count": 2.35
                     },
                     {
                         "month": "Sep'15",
-                        "count": 2.7366020524515395
+                        "count": 2.74
                     },
                     {
                         "month": "Oct'15",
-                        "count": 5.374823196605375
+                        "count": 5.37
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.1229050279329607
+                        "count": 2.12
                     },
                     {
                         "month": "Dec'15",
-                        "count": 4.166666666666666
+                        "count": 4.17
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.1052631578947367
+                        "count": 2.11
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.146464646464646
+                        "count": 2.15
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.949044585987261
+                        "count": 3.93
                     }
                 ]
             },
@@ -340,35 +340,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 1.0214504596527068
+                        "count": 1.02
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.4823261117445838
+                        "count": 1.48
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.4144271570014144
+                        "count": 1.41
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.782122905027933
+                        "count": 0.78
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.9259259259259258
+                        "count": 0.93
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.8947368421052633
+                        "count": 1.89
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.2626262626262625
+                        "count": 1.26
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.910828025477707
+                        "count": 1.9
                     }
                 ]
             },
@@ -377,35 +377,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 1.8386108273748722
+                        "count": 1.84
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.8244013683010263
+                        "count": 1.82
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.6973125884016973
+                        "count": 1.7
                     },
                     {
                         "month": "Nov'15",
-                        "count": 3.128491620111732
+                        "count": 3.13
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.935185185185185
+                        "count": 3.94
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.526315789473684
+                        "count": 2.53
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.7676767676767675
+                        "count": 1.77
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.802547770700637
+                        "count": 2.79
                     }
                 ]
             },
@@ -414,35 +414,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 2.6557711950970377
+                        "count": 2.66
                     },
                     {
                         "month": "Sep'15",
-                        "count": 3.192702394526796
+                        "count": 3.19
                     },
                     {
                         "month": "Oct'15",
-                        "count": 2.4045261669024045
+                        "count": 2.4
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.905027932960894
+                        "count": 2.91
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.009259259259259
+                        "count": 3.01
                     },
                     {
                         "month": "Jan'16",
-                        "count": 5.684210526315789
+                        "count": 5.68
                     },
                     {
                         "month": "Feb'16",
-                        "count": 4.166666666666666
+                        "count": 4.17
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.821656050955414
+                        "count": 3.8
                     }
                 ]
             },
@@ -451,35 +451,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 2.247191011235955
+                        "count": 2.25
                     },
                     {
                         "month": "Sep'15",
-                        "count": 2.0524515393386547
+                        "count": 2.05
                     },
                     {
                         "month": "Oct'15",
-                        "count": 3.1117397454031117
+                        "count": 3.11
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.452513966480447
+                        "count": 1.45
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.314814814814815
+                        "count": 2.31
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.4736842105263157
+                        "count": 1.47
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.0202020202020203
+                        "count": 2.02
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.5286624203821657
+                        "count": 1.52
                     }
                 ]
             },
@@ -488,35 +488,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 5.515832482124617
+                        "count": 5.52
                     },
                     {
                         "month": "Sep'15",
-                        "count": 7.297605473204105
+                        "count": 7.3
                     },
                     {
                         "month": "Oct'15",
-                        "count": 6.223479490806223
+                        "count": 6.22
                     },
                     {
                         "month": "Nov'15",
-                        "count": 6.256983240223464
+                        "count": 6.26
                     },
                     {
                         "month": "Dec'15",
-                        "count": 8.333333333333332
+                        "count": 8.33
                     },
                     {
                         "month": "Jan'16",
-                        "count": 5.263157894736842
+                        "count": 5.26
                     },
                     {
                         "month": "Feb'16",
-                        "count": 6.8181818181818175
+                        "count": 6.82
                     },
                     {
                         "month": "Mar'16",
-                        "count": 7.515923566878981
+                        "count": 7.48
                     }
                 ]
             },
@@ -525,35 +525,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 10.316649642492338
+                        "count": 10.32
                     },
                     {
                         "month": "Sep'15",
-                        "count": 10.946408209806158
+                        "count": 10.95
                     },
                     {
                         "month": "Oct'15",
-                        "count": 11.598302687411598
+                        "count": 11.6
                     },
                     {
                         "month": "Nov'15",
-                        "count": 9.050279329608939
+                        "count": 9.05
                     },
                     {
                         "month": "Dec'15",
-                        "count": 10.648148148148149
+                        "count": 10.65
                     },
                     {
                         "month": "Jan'16",
-                        "count": 8.631578947368421
+                        "count": 8.63
                     },
                     {
                         "month": "Feb'16",
-                        "count": 8.585858585858585
+                        "count": 8.59
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.789808917197451
+                        "count": 8.75
                     }
                 ]
             },
@@ -562,23 +562,23 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 0.20429009193054137
+                        "count": 0.2
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.11402508551881414
+                        "count": 0.11
                     },
                     {
                         "month": "Oct'15",
-                        "count": 0.14144271570014144
+                        "count": 0.14
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.22346368715083798
+                        "count": 0.22
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.6944444444444444
+                        "count": 0.69
                     },
                     {
                         "month": "Jan'16",
@@ -586,11 +586,48 @@ window.hnData = [
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.3787878787878788
+                        "count": 0.38
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.25477707006369427
+                        "count": 0.25
+                    }
+                ]
+            },
+            {
+                "item": "c#",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 3.27
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 3.53
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 2.55
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 3.58
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 4.63
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 4.63
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 6.06
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 4.31
                     }
                 ]
             }
@@ -604,35 +641,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 10.21450459652707
+                        "count": 10.21
                     },
                     {
                         "month": "Sep'15",
-                        "count": 11.630558722919043
+                        "count": 11.63
                     },
                     {
                         "month": "Oct'15",
-                        "count": 14.71004243281471
+                        "count": 14.71
                     },
                     {
                         "month": "Nov'15",
-                        "count": 12.17877094972067
+                        "count": 12.18
                     },
                     {
                         "month": "Dec'15",
-                        "count": 16.666666666666664
+                        "count": 16.67
                     },
                     {
                         "month": "Jan'16",
-                        "count": 15.578947368421053
+                        "count": 15.58
                     },
                     {
                         "month": "Feb'16",
-                        "count": 15.909090909090908
+                        "count": 15.91
                     },
                     {
                         "month": "Mar'16",
-                        "count": 19.10828025477707
+                        "count": 19.14
                     }
                 ]
             },
@@ -641,35 +678,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 10.010214504596528
+                        "count": 10.01
                     },
                     {
                         "month": "Sep'15",
-                        "count": 9.578107183580387
+                        "count": 9.58
                     },
                     {
                         "month": "Oct'15",
-                        "count": 12.446958981612447
+                        "count": 12.45
                     },
                     {
                         "month": "Nov'15",
-                        "count": 9.385474860335195
+                        "count": 9.39
                     },
                     {
                         "month": "Dec'15",
-                        "count": 10.648148148148149
+                        "count": 10.65
                     },
                     {
                         "month": "Jan'16",
-                        "count": 10.105263157894736
+                        "count": 10.11
                     },
                     {
                         "month": "Feb'16",
-                        "count": 8.207070707070708
+                        "count": 8.21
                     },
                     {
                         "month": "Mar'16",
-                        "count": 10.318471337579618
+                        "count": 10.27
                     }
                 ]
             },
@@ -678,35 +715,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 4.698672114402451
+                        "count": 4.7
                     },
                     {
                         "month": "Sep'15",
-                        "count": 4.4469783352337515
+                        "count": 4.45
                     },
                     {
                         "month": "Oct'15",
-                        "count": 6.364922206506366
+                        "count": 6.36
                     },
                     {
                         "month": "Nov'15",
-                        "count": 4.357541899441341
+                        "count": 4.36
                     },
                     {
                         "month": "Dec'15",
-                        "count": 4.166666666666666
+                        "count": 4.17
                     },
                     {
                         "month": "Jan'16",
-                        "count": 3.3684210526315788
+                        "count": 3.37
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.272727272727273
+                        "count": 2.27
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.1847133757961785
+                        "count": 3.17
                     }
                 ]
             },
@@ -715,35 +752,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 9.499489274770173
+                        "count": 9.5
                     },
                     {
                         "month": "Sep'15",
-                        "count": 9.35005701254276
+                        "count": 9.35
                     },
                     {
                         "month": "Oct'15",
-                        "count": 10.466760961810467
+                        "count": 10.47
                     },
                     {
                         "month": "Nov'15",
-                        "count": 8.491620111731843
+                        "count": 8.49
                     },
                     {
                         "month": "Dec'15",
-                        "count": 10.416666666666668
+                        "count": 10.42
                     },
                     {
                         "month": "Jan'16",
-                        "count": 10.73684210526316
+                        "count": 10.74
                     },
                     {
                         "month": "Feb'16",
-                        "count": 8.333333333333332
+                        "count": 8.33
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.789808917197451
+                        "count": 8.75
                     }
                 ]
             },
@@ -752,23 +789,23 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 0.30643513789581206
+                        "count": 0.31
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.22805017103762829
+                        "count": 0.23
                     },
                     {
                         "month": "Oct'15",
-                        "count": 0.2828854314002829
+                        "count": 0.28
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.44692737430167595
+                        "count": 0.45
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.23148148148148145
+                        "count": 0.23
                     },
                     {
                         "month": "Jan'16",
@@ -780,7 +817,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.3821656050955414
+                        "count": 0.38
                     }
                 ]
             }
@@ -794,35 +831,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 3.881511746680286
+                        "count": 3.88
                     },
                     {
                         "month": "Sep'15",
-                        "count": 3.4207525655644244
+                        "count": 3.42
                     },
                     {
                         "month": "Oct'15",
-                        "count": 4.809052333804809
+                        "count": 4.81
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.793296089385475
+                        "count": 2.79
                     },
                     {
                         "month": "Dec'15",
-                        "count": 7.175925925925926
+                        "count": 7.18
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.736842105263158
+                        "count": 2.74
                     },
                     {
                         "month": "Feb'16",
-                        "count": 4.292929292929292
+                        "count": 4.29
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.4394904458598727
+                        "count": 3.42
                     }
                 ]
             },
@@ -831,35 +868,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 0.10214504596527069
+                        "count": 0.1
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.11402508551881414
+                        "count": 0.11
                     },
                     {
                         "month": "Oct'15",
-                        "count": 0.2828854314002829
+                        "count": 0.28
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.33519553072625696
+                        "count": 0.34
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.6944444444444444
+                        "count": 0.69
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.0526315789473684
+                        "count": 1.05
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.6313131313131313
+                        "count": 0.63
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.4012738853503186
+                        "count": 1.39
                     }
                 ]
             },
@@ -868,35 +905,35 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 1.7364657814096014
+                        "count": 1.74
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.3683010262257698
+                        "count": 1.37
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.9801980198019802
+                        "count": 1.98
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.899441340782123
+                        "count": 1.9
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.7777777777777777
+                        "count": 2.78
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.4736842105263157
+                        "count": 1.47
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.0202020202020203
+                        "count": 2.02
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.910828025477707
+                        "count": 1.9
                     }
                 ]
             }
@@ -910,27 +947,27 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 24.514811031664966
+                        "count": 24.51
                     },
                     {
                         "month": "Sep'15",
-                        "count": 25.19954389965792
+                        "count": 25.2
                     },
                     {
                         "month": "Oct'15",
-                        "count": 25.884016973125885
+                        "count": 25.88
                     },
                     {
                         "month": "Nov'15",
-                        "count": 23.687150837988828
+                        "count": 23.69
                     },
                     {
                         "month": "Dec'15",
-                        "count": 25.694444444444443
+                        "count": 25.69
                     },
                     {
                         "month": "Jan'16",
-                        "count": 29.894736842105264
+                        "count": 29.89
                     },
                     {
                         "month": "Feb'16",
@@ -938,7 +975,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 28.152866242038215
+                        "count": 28.01
                     }
                 ]
             },
@@ -947,35 +984,114 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 40.34729315628192
+                        "count": 40.35
                     },
                     {
                         "month": "Sep'15",
-                        "count": 44.241733181299885
+                        "count": 44.24
                     },
                     {
                         "month": "Oct'15",
-                        "count": 50.919377652050926
+                        "count": 50.92
                     },
                     {
                         "month": "Nov'15",
-                        "count": 48.49162011173184
+                        "count": 48.49
                     },
                     {
                         "month": "Dec'15",
-                        "count": 55.55555555555556
+                        "count": 55.56
                     },
                     {
                         "month": "Jan'16",
-                        "count": 53.68421052631579
+                        "count": 53.68
                     },
                     {
                         "month": "Feb'16",
-                        "count": 50.505050505050505
+                        "count": 50.51
                     },
                     {
                         "month": "Mar'16",
-                        "count": 49.42675159235669
+                        "count": 49.56
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "slice": "mobile",
+        "data": [
+            {
+                "item": "ios",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 21.96
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 22.58
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 30.27
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 22.79
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 25.93
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 24.21
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 20.71
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 23.19
+                    }
+                ]
+            },
+            {
+                "item": "android",
+                "data": [
+                    {
+                        "month": "Aug'15",
+                        "count": 18.39
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 18.59
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 23.2
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 21.45
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 23.84
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 16.21
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 15.03
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 18.25
                     }
                 ]
             }

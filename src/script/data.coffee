@@ -600,6 +600,72 @@ window.hnData = [
                         "count": 25
                     }
                 ]
+            },
+            {
+                "item": "ember",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 82
+                    },
+                    {
+                        "month": "October",
+                        "count": 74
+                    },
+                    {
+                        "month": "November",
+                        "count": 76
+                    },
+                    {
+                        "month": "December",
+                        "count": 45
+                    },
+                    {
+                        "month": "January",
+                        "count": 51
+                    },
+                    {
+                        "month": "February",
+                        "count": 66
+                    },
+                    {
+                        "month": "March",
+                        "count": 69
+                    }
+                ]
+            },
+            {
+                "item": "knockout",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 2
+                    },
+                    {
+                        "month": "October",
+                        "count": 2
+                    },
+                    {
+                        "month": "November",
+                        "count": 4
+                    },
+                    {
+                        "month": "December",
+                        "count": 1
+                    },
+                    {
+                        "month": "January",
+                        "count": 0
+                    },
+                    {
+                        "month": "February",
+                        "count": 0
+                    },
+                    {
+                        "month": "March",
+                        "count": 3
+                    }
+                ]
             }
         ]
     },

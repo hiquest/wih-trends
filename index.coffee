@@ -25,7 +25,7 @@ SLICES = [
   },
   {
     slice: 'jsFrameworks',
-    items: ['react', 'angular', 'backbone']
+    items: ['react', 'angular', 'backbone', 'ember', 'knockout']
   },
   {
     slice: 'jsLangs',

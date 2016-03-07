@@ -1,7 +1,13 @@
+#
+# Script that grabs data from HN.
+#
+
+# Dependencies
 req = require "request"
 async = require('async')
 _ = require('underscore')
 
+# Configuration
 DATA_LINKS = [
   { month: 'September', url: 'https://news.ycombinator.com/item?id=10152809' },
   { month: 'October', url: 'https://news.ycombinator.com/item?id=10311580' },
@@ -27,6 +33,7 @@ SLICES = [
   }
 ]
 
+# Algorithm
 countOccurrence = (body, item) ->
   re = new RegExp(item, 'gi')
   (body.match(re) || []).length
@@ -42,15 +49,17 @@ cookData = (sl) ->
         }
     }
 
-fns = DATA_LINKS.map (dl) ->
-  (done) ->
-    req { url: dl.url }, (error, response, body) ->
-      if error
-        throw 'Could not download data'
-      dl.body = body
-      done()
+fetchPages = (cb) ->
+  fns = DATA_LINKS.map (dl) ->
+    (done) ->
+      req { url: dl.url }, (error, response, body) ->
+        throw 'Could not download data' if error
+        dl.body = body
+        done()
+  async.series fns, cb
 
-async.series fns, ->
+# Start Here
+fetchPages ->
   out = SLICES.map (sl) ->
     {
       slice: sl.slice,

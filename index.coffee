@@ -45,17 +45,6 @@ countOccurrence = (body, item) ->
   re = new RegExp(item, 'gi')
   (body.match(re) || []).length
 
-cookData = (sl) ->
-  sl.items.map (item) ->
-    {
-      item: item,
-      data: DATA_LINKS.map (dl) ->
-        {
-          month: dl.month,
-          count: countOccurrence(dl.body, item)
-        }
-    }
-
 fetchPages = (cb) ->
   fns = DATA_LINKS.map (dl) ->
     (done) ->
@@ -70,6 +59,14 @@ fetchPages ->
   out = SLICES.map (sl) ->
     {
       slice: sl.slice,
-      data: cookData(sl)
+      data: sl.items.map (item) ->
+        {
+          item: item,
+          data: DATA_LINKS.map (dl) ->
+            {
+              month: dl.month,
+              count: countOccurrence(dl.body, item)
+            }
+        }
     }
   console.log JSON.stringify(out, null, 4)

@@ -772,5 +772,76 @@ window.hnData = [
                 ]
             }
         ]
+    },
+    {
+        "slice": "remoteVsOnsite",
+        "data": [
+            {
+                "item": "remote",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 221
+                    },
+                    {
+                        "month": "October",
+                        "count": 183
+                    },
+                    {
+                        "month": "November",
+                        "count": 212
+                    },
+                    {
+                        "month": "December",
+                        "count": 111
+                    },
+                    {
+                        "month": "January",
+                        "count": 142
+                    },
+                    {
+                        "month": "February",
+                        "count": 198
+                    },
+                    {
+                        "month": "March",
+                        "count": 219
+                    }
+                ]
+            },
+            {
+                "item": "onsite",
+                "data": [
+                    {
+                        "month": "September",
+                        "count": 388
+                    },
+                    {
+                        "month": "October",
+                        "count": 360
+                    },
+                    {
+                        "month": "November",
+                        "count": 434
+                    },
+                    {
+                        "month": "December",
+                        "count": 240
+                    },
+                    {
+                        "month": "January",
+                        "count": 255
+                    },
+                    {
+                        "month": "February",
+                        "count": 400
+                    },
+                    {
+                        "month": "March",
+                        "count": 387
+                    }
+                ]
+            }
+        ]
     }
 ]

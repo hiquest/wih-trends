@@ -23,3 +23,9 @@ $ ->
     xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
     series: prepare(hnData[2].data)
   }
+
+  $('#remote-vs-onsite').highcharts {
+    title: { text: 'Remote Vs. Onsite' },
+    xAxis: { categories: hnData[0].data[0].data.map (x) -> x.month },
+    series: prepare(hnData[3].data)
+  }

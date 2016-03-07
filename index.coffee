@@ -30,6 +30,10 @@ SLICES = [
   {
     slice: 'jsLangs',
     items: ['coffee', 'typescript', 'es6']
+  },
+  {
+    slice: 'remoteVsOnsite',
+    items: ['remote', 'onsite']
   }
 ]
 

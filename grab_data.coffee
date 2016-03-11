@@ -6,6 +6,7 @@
 req = require "request"
 async = require('async')
 _ = require('underscore')
+striptags = require('striptags')
 
 # Configuration
 DATA_LINKS = [
@@ -69,9 +70,8 @@ SLICES = [
 ]
 
 # Algorithm
-countOccurrence = (body, item) ->
-  re = new RegExp(item, 'gi')
-  (body.match(re) || []).length
+countOccurrence = (wrds, item) ->
+  _.countBy(wrds, (w) -> w.toLowerCase() == item.toLowerCase())['true']
 
 round = (num) ->
   Math.round(num * 100) / 100
@@ -81,8 +81,10 @@ fetchPages = (cb) ->
     (done) ->
       req { url: dl.url }, (error, response, body) ->
         throw 'Could not download data' if error
-        dl.body = body
-        dl.count = countOccurrence(body, 'athing')
+        dl.body = striptags(body)
+          .replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()]/g,"")
+          .split(' ')
+        dl.count = (body.match(/athing/gi) || []).length
         done()
   async.series fns, cb
 

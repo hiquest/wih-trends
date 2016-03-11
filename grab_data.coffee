@@ -37,7 +37,7 @@ SLICES = [
       'haskell',
       'rust',
       'coffeescript',
-      'c\\+\\+',
+      'c++',
       'scala',
       'closure',
       'c#'
@@ -45,11 +45,20 @@ SLICES = [
   },
   {
     slice: 'jsFrameworks',
-    items: ['react', 'angular', 'backbone', 'ember', 'knockout']
+    items: [
+      ['ReactJS', 'react'],
+      ['AngularJS', 'angular'],
+      'backbone',
+      'ember'
+    ]
   },
   {
     slice: 'jsLangs',
-    items: ['coffee', 'typescript', 'es6']
+    items: [
+      ['CoffeeScript', 'Coffee'],
+      'TypeScript',
+      ['EcmaScript2016', 'es6', 'es2015']
+    ]
   },
   {
     slice: 'remoteVsOnsite',
@@ -61,18 +70,36 @@ SLICES = [
   },
   {
     slice: 'Databases',
-    items: ['postgres', 'mysql', 'sql server', 'oracle', 'mongo', 'redis', 'cassandra']
+    items: [
+      ['PostgreSQL', 'postgres'],
+      'MySql',
+      'sql server',
+      'Oracle',
+      ['MongoDB', 'mongo'],
+      'redis',
+      'cassandra']
   },
   {
     slice: 'Professions',
-    items: ['Software Engineer', 'Software Developer', 'Full-stack', 'Data Scien', 'Data Engineer', 'Devops']
+    items: [
+      'Software Engineer',
+      'Software Developer',
+      'Full-stack',
+      'Data Scien',
+      'Data Engineer',
+      'Devops'
+    ]
   }
 ]
 
 # Algorithm
-countOccurrence = (wrds, item) ->
-  _.countBy(wrds, (w) -> w.toLowerCase() == item.toLowerCase())['true']
+countOccurrence = (wrds, patterns) ->
+  _.countBy(wrds, (w) ->
+    _.some patterns, (p) ->
+      w.toLowerCase() == p.toLowerCase()
+  )['true']
 
+# o.11415 rounds to 0.11
 round = (num) ->
   Math.round(num * 100) / 100
 
@@ -80,7 +107,7 @@ fetchPages = (cb) ->
   fns = DATA_LINKS.map (dl) ->
     (done) ->
       req { url: dl.url }, (error, response, body) ->
-        throw 'Could not download data' if error
+        throw "Could not download data from #{dl.url}" if error
         dl.body = striptags(body)
           .replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()]/g,"")
           .split(' ')
@@ -93,13 +120,14 @@ fetchPages ->
   out = SLICES.map (sl) ->
     {
       slice: sl.slice,
-      data: sl.items.map (item) ->
+      data: sl.items.map (itemOrItems) ->
+        patterns = if _.isArray(itemOrItems) then itemOrItems else [itemOrItems]
         {
-          item: item,
+          item: patterns[0],
           data: DATA_LINKS.map (dl) ->
             {
               month: dl.month,
-              count: round(countOccurrence(dl.body, item) / dl.count * 100)
+              count: round(countOccurrence(dl.body, patterns) / dl.count * 100)
             }
         }
     }

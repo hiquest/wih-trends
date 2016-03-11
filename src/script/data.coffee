@@ -35,7 +35,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 11.9
+                        "count": 11.87
                     }
                 ]
             },
@@ -72,7 +72,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 14.85
+                        "count": 14.81
                     }
                 ]
             },
@@ -146,7 +146,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 9.94
+                        "count": 9.91
                     }
                 ]
             },
@@ -220,7 +220,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 5.15
+                        "count": 5.14
                     }
                 ]
             },
@@ -257,7 +257,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 19.02
+                        "count": 18.97
                     }
                 ]
             },
@@ -331,7 +331,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.58
+                        "count": 2.57
                     }
                 ]
             },
@@ -368,7 +368,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.23
+                        "count": 1.22
                     }
                 ]
             },
@@ -405,7 +405,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.21
+                        "count": 2.2
                     }
                 ]
             },
@@ -484,39 +484,39 @@ window.hnData = [
                 ]
             },
             {
-                "item": "c\\+\\+",
+                "item": "c++",
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 3.37
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 4.79
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 3.96
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 3.24
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 5.56
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 3.16
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 2.78
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 4.77
                     }
                 ]
             },
@@ -553,7 +553,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.93
+                        "count": 3.92
                     }
                 ]
             },
@@ -590,7 +590,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.25
+                        "count": 0.24
                     }
                 ]
             },
@@ -637,76 +637,76 @@ window.hnData = [
         "slice": "jsFrameworks",
         "data": [
             {
-                "item": "react",
+                "item": "ReactJS",
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 5.62
+                        "count": 7.56
                     },
                     {
                         "month": "Sep'15",
-                        "count": 6.84
+                        "count": 8.78
                     },
                     {
                         "month": "Oct'15",
-                        "count": 8.2
+                        "count": 10.33
                     },
                     {
                         "month": "Nov'15",
-                        "count": 7.82
+                        "count": 9.16
                     },
                     {
                         "month": "Dec'15",
-                        "count": 11.11
+                        "count": 13.19
                     },
                     {
                         "month": "Jan'16",
-                        "count": 10.74
+                        "count": 12.42
                     },
                     {
                         "month": "Feb'16",
-                        "count": 10.23
+                        "count": 12.5
                     },
                     {
                         "month": "Mar'16",
-                        "count": 11.9
+                        "count": 14.81
                     }
                 ]
             },
             {
-                "item": "angular",
+                "item": "AngularJS",
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 3.47
+                        "count": 8.27
                     },
                     {
                         "month": "Sep'15",
-                        "count": 3.99
+                        "count": 7.64
                     },
                     {
                         "month": "Oct'15",
-                        "count": 4.81
+                        "count": 9.9
                     },
                     {
                         "month": "Nov'15",
-                        "count": 4.13
+                        "count": 7.04
                     },
                     {
                         "month": "Dec'15",
-                        "count": 4.86
+                        "count": 8.56
                     },
                     {
                         "month": "Jan'16",
-                        "count": 3.58
+                        "count": 9.05
                     },
                     {
                         "month": "Feb'16",
-                        "count": 3.28
+                        "count": 6.69
                     },
                     {
                         "month": "Mar'16",
-                        "count": 4.17
+                        "count": 7.83
                     }
                 ]
             },
@@ -743,7 +743,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.6
+                        "count": 1.59
                     }
                 ]
             },
@@ -783,43 +783,6 @@ window.hnData = [
                         "count": 0.49
                     }
                 ]
-            },
-            {
-                "item": "knockout",
-                "data": [
-                    {
-                        "month": "Aug'15",
-                        "count": 0.1
-                    },
-                    {
-                        "month": "Sep'15",
-                        "count": 0.23
-                    },
-                    {
-                        "month": "Oct'15",
-                        "count": 0.28
-                    },
-                    {
-                        "month": "Nov'15",
-                        "count": 0.34
-                    },
-                    {
-                        "month": "Dec'15",
-                        "count": 0.23
-                    },
-                    {
-                        "month": "Jan'16",
-                        "count": null
-                    },
-                    {
-                        "month": "Feb'16",
-                        "count": null
-                    },
-                    {
-                        "month": "Mar'16",
-                        "count": 0.12
-                    }
-                ]
             }
         ]
     },
@@ -827,44 +790,44 @@ window.hnData = [
         "slice": "jsLangs",
         "data": [
             {
-                "item": "coffee",
+                "item": "CoffeeScript",
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 0.72
+                        "count": 2.25
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.8
+                        "count": 2.17
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.27
+                        "count": 3.54
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.89
+                        "count": 2.01
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.24
+                        "count": 5.32
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.05
+                        "count": 2.11
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.64
+                        "count": 3.16
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.72
+                        "count": 3.06
                     }
                 ]
             },
             {
-                "item": "typescript",
+                "item": "TypeScript",
                 "data": [
                     {
                         "month": "Aug'15",
@@ -901,7 +864,7 @@ window.hnData = [
                 ]
             },
             {
-                "item": "es6",
+                "item": "EcmaScript2016",
                 "data": [
                     {
                         "month": "Aug'15",
@@ -925,7 +888,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.26
+                        "count": 1.47
                     },
                     {
                         "month": "Feb'16",
@@ -933,7 +896,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.47
+                        "count": 1.96
                     }
                 ]
             }
@@ -975,7 +938,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 19.39
+                        "count": 19.34
                     }
                 ]
             },
@@ -1012,7 +975,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 29.2
+                        "count": 29.25
                     }
                 ]
             }
@@ -1054,7 +1017,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 15.58
+                        "count": 15.67
                     }
                 ]
             },
@@ -1091,7 +1054,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 15.34
+                        "count": 15.3
                     }
                 ]
             }
@@ -1101,44 +1064,44 @@ window.hnData = [
         "slice": "Databases",
         "data": [
             {
-                "item": "postgres",
+                "item": "PostgreSQL",
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 3.27
+                        "count": 5.72
                     },
                     {
                         "month": "Sep'15",
-                        "count": 2.17
+                        "count": 4.68
                     },
                     {
                         "month": "Oct'15",
-                        "count": 3.68
+                        "count": 8.2
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.46
+                        "count": 4.47
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.47
+                        "count": 6.94
                     },
                     {
                         "month": "Jan'16",
-                        "count": 4.63
+                        "count": 7.58
                     },
                     {
                         "month": "Feb'16",
-                        "count": 3.28
+                        "count": 7.32
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.19
+                        "count": 5.88
                     }
                 ]
             },
             {
-                "item": "mysql",
+                "item": "MySql",
                 "data": [
                     {
                         "month": "Aug'15",
@@ -1170,7 +1133,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 4.54
+                        "count": 4.53
                     }
                 ]
             },
@@ -1212,7 +1175,7 @@ window.hnData = [
                 ]
             },
             {
-                "item": "oracle",
+                "item": "Oracle",
                 "data": [
                     {
                         "month": "Aug'15",
@@ -1244,44 +1207,44 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.74
+                        "count": 0.73
                     }
                 ]
             },
             {
-                "item": "mongo",
+                "item": "MongoDB",
                 "data": [
                     {
                         "month": "Aug'15",
-                        "count": 1.23
+                        "count": 4.29
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.68
+                        "count": 3.99
                     },
                     {
                         "month": "Oct'15",
-                        "count": 0.57
+                        "count": 3.82
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.89
+                        "count": 3.8
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.93
+                        "count": 4.17
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.05
+                        "count": 3.37
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.63
+                        "count": 2.78
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.98
+                        "count": 3.06
                     }
                 ]
             },
@@ -1318,7 +1281,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.8
+                        "count": 3.79
                     }
                 ]
             },
@@ -1582,7 +1545,7 @@ window.hnData = [
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.34
+                        "count": 8.32
                     }
                 ]
             }

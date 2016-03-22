@@ -10,6 +10,8 @@ striptags = require('striptags')
 
 # Configuration
 DATA_LINKS = [
+  { month: "Jun'15", url: 'https://news.ycombinator.com/item?id=9639001' },
+  { month: "Jul'15", url: 'https://news.ycombinator.com/item?id=9812245' },
   { month: "Aug'15", url: 'https://news.ycombinator.com/item?id=9996333' },
   { month: "Sep'15", url: 'https://news.ycombinator.com/item?id=10152809' },
   { month: "Oct'15", url: 'https://news.ycombinator.com/item?id=10311580' },

@@ -6,35 +6,35 @@
 req = require "request"
 async = require('async')
 _ = require('underscore')
-striptags = require('striptags')
+cheerio = require('cheerio')
 
 # Configuration
 DATA_LINKS = require './config/sources.json'
 SLICES     = require './config/slices.json'
 
-countOccurrence = (wrds, patterns) ->
-  _.countBy(wrds, (w) ->
+countOccurrence = (items, patterns) ->
+  _.countBy(items, ($i) ->
+    text = $i.find('td.default .comment').text().toLowerCase()
     _.some patterns, (p) ->
-      w.toLowerCase() == p.toLowerCase()
+      text.indexOf(p.toLowerCase()) > -1
   )['true']
 
 # o.11415 rounds to 0.11
 round = (num) ->
   Math.round(num * 100) / 100
 
-splitWords = (body) ->
-  striptags(body)
-    .replace(/[\.,-\/#!$%\^&\*;:{}=\-_`~()]/g,"")
-    .split(' ')
-
 fetchPages = (cb) ->
+
   fns = DATA_LINKS.map (dl) ->
     (done) ->
       req { url: dl.url }, (error, response, body) ->
         throw "Could not download data from #{dl.url}" if error
-        dl.body = splitWords(body)
-        dl.count = (body.match(/athing/gi) || []).length
+        $ = cheerio.load(body)
+        items = $('.athing td.ind img[width="0"]').toArray().map((x) -> $(x).parents('.athing'))
+        dl.items = items
+        dl.count = items.length
         done()
+
   async.series fns, cb
 
 buildData = ->
@@ -48,7 +48,7 @@ buildData = ->
           data: DATA_LINKS.map (dl) ->
             {
               month: dl.month,
-              count: round(countOccurrence(dl.body, patterns) / dl.count * 100)
+              count: round(countOccurrence(dl.items, patterns) / dl.count * 100)
             }
         }
     }

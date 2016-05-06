@@ -7,51 +7,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 13.03
+                        "count": 14.04
                     },
                     {
                         "month": "Jul'15",
-                        "count": 12.12
+                        "count": 13.27
                     },
                     {
                         "month": "Aug'15",
-                        "count": 12.17
+                        "count": 14.14
                     },
                     {
                         "month": "Sep'15",
-                        "count": 12.44
+                        "count": 13.84
                     },
                     {
                         "month": "Oct'15",
-                        "count": 13.88
+                        "count": 14.04
                     },
                     {
                         "month": "Nov'15",
-                        "count": 7.49
+                        "count": 9.94
                     },
                     {
                         "month": "Dec'15",
-                        "count": 9.95
+                        "count": 10.77
                     },
                     {
                         "month": "Jan'16",
-                        "count": 10.53
+                        "count": 11.14
                     },
                     {
                         "month": "Feb'16",
-                        "count": 9.72
+                        "count": 11.47
                     },
                     {
                         "month": "Mar'16",
-                        "count": 11.71
+                        "count": 13.19
                     },
                     {
                         "month": "Apr'16",
-                        "count": 9.83
+                        "count": 10.98
                     },
                     {
                         "month": "May'16",
-                        "count": 8.48
+                        "count": 11.39
                     }
                 ]
             },
@@ -60,51 +60,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 17.37
+                        "count": 23.01
                     },
                     {
                         "month": "Jul'15",
-                        "count": 16.77
+                        "count": 20.97
                     },
                     {
                         "month": "Aug'15",
-                        "count": 18.81
+                        "count": 22.22
                     },
                     {
                         "month": "Sep'15",
-                        "count": 18.26
+                        "count": 22.6
                     },
                     {
                         "month": "Oct'15",
-                        "count": 19.41
+                        "count": 22.33
                     },
                     {
                         "month": "Nov'15",
-                        "count": 12.51
+                        "count": 17.93
                     },
                     {
                         "month": "Dec'15",
-                        "count": 17.13
+                        "count": 21.27
                     },
                     {
                         "month": "Jan'16",
-                        "count": 19.79
+                        "count": 23.61
                     },
                     {
                         "month": "Feb'16",
-                        "count": 17.3
+                        "count": 21.55
                     },
                     {
                         "month": "Mar'16",
-                        "count": 14.73
+                        "count": 20.3
                     },
                     {
                         "month": "Apr'16",
-                        "count": 17.87
+                        "count": 20.3
                     },
                     {
                         "month": "May'16",
-                        "count": 14.89
+                        "count": 20.9
                     }
                 ]
             },
@@ -113,51 +113,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 0.64
+                        "count": 1.02
                     },
                     {
                         "month": "Jul'15",
-                        "count": 1.28
+                        "count": 1.42
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.51
+                        "count": 0.63
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.03
+                        "count": 1.27
                     },
                     {
                         "month": "Oct'15",
-                        "count": 2.41
+                        "count": 2.87
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.68
+                        "count": 2.1
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.78
+                        "count": 4.14
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.26
+                        "count": 2.65
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.88
+                        "count": 1.71
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.45
+                        "count": 2.37
                     },
                     {
                         "month": "Apr'16",
-                        "count": 2.08
+                        "count": 2.66
                     },
                     {
                         "month": "May'16",
-                        "count": 2.63
+                        "count": 3.74
                     }
                 ]
             },
@@ -166,51 +166,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 10.86
+                        "count": 28.93
                     },
                     {
                         "month": "Jul'15",
-                        "count": 7.93
+                        "count": 27.61
                     },
                     {
                         "month": "Aug'15",
-                        "count": 9.92
+                        "count": 27.27
                     },
                     {
                         "month": "Sep'15",
-                        "count": 8.68
+                        "count": 26.41
                     },
                     {
                         "month": "Oct'15",
-                        "count": 9.63
+                        "count": 26.48
                     },
                     {
                         "month": "Nov'15",
-                        "count": 10.39
+                        "count": 27.03
                     },
                     {
                         "month": "Dec'15",
-                        "count": 8.56
+                        "count": 27.62
                     },
                     {
                         "month": "Jan'16",
-                        "count": 6.32
+                        "count": 28.38
                     },
                     {
                         "month": "Feb'16",
-                        "count": 7.58
+                        "count": 25.89
                     },
                     {
                         "month": "Mar'16",
-                        "count": 9.78
+                        "count": 28.74
                     },
                     {
                         "month": "Apr'16",
-                        "count": 9.97
+                        "count": 27.62
                     },
                     {
                         "month": "May'16",
-                        "count": 8.36
+                        "count": 27.15
                     }
                 ]
             },
@@ -219,51 +219,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 0.77
+                        "count": 0.85
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.64
+                        "count": 0.71
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.2
+                        "count": 0.38
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.23
+                        "count": 0.28
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.13
+                        "count": 0.96
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.22
+                        "count": 0.28
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.46
+                        "count": 0.55
                     },
                     {
                         "month": "Jan'16",
-                        "count": 0.63
+                        "count": 0.8
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.13
+                        "count": 0.62
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.33
+                        "count": 1.48
                     },
                     {
                         "month": "Apr'16",
-                        "count": 0.42
+                        "count": 0.67
                     },
                     {
                         "month": "May'16",
-                        "count": 1.03
+                        "count": 1.4
                     }
                 ]
             },
@@ -272,51 +272,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 4.73
+                        "count": 6.43
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.01
+                        "count": 6.52
                     },
                     {
                         "month": "Aug'15",
-                        "count": 6.65
+                        "count": 6.57
                     },
                     {
                         "month": "Sep'15",
-                        "count": 5.25
+                        "count": 6.92
                     },
                     {
                         "month": "Oct'15",
-                        "count": 5.52
+                        "count": 7.5
                     },
                     {
                         "month": "Nov'15",
-                        "count": 4.47
+                        "count": 5.32
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.47
+                        "count": 5.8
                     },
                     {
                         "month": "Jan'16",
-                        "count": 4.84
+                        "count": 5.84
                     },
                     {
                         "month": "Feb'16",
-                        "count": 3.54
+                        "count": 5.58
                     },
                     {
                         "month": "Mar'16",
-                        "count": 5.07
+                        "count": 7.26
                     },
                     {
                         "month": "Apr'16",
-                        "count": 3.74
+                        "count": 5.49
                     },
                     {
                         "month": "May'16",
-                        "count": 3.44
+                        "count": 5.15
                     }
                 ]
             },
@@ -325,51 +325,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 15.71
+                        "count": 19.29
                     },
                     {
                         "month": "Jul'15",
-                        "count": 15.77
+                        "count": 20.26
                     },
                     {
                         "month": "Aug'15",
-                        "count": 16.67
+                        "count": 19.57
                     },
                     {
                         "month": "Sep'15",
-                        "count": 14.27
+                        "count": 17.94
                     },
                     {
                         "month": "Oct'15",
-                        "count": 16.57
+                        "count": 19.14
                     },
                     {
                         "month": "Nov'15",
-                        "count": 13.74
+                        "count": 17.09
                     },
                     {
                         "month": "Dec'15",
-                        "count": 15.97
+                        "count": 19.61
                     },
                     {
                         "month": "Jan'16",
-                        "count": 16.42
+                        "count": 21.49
                     },
                     {
                         "month": "Feb'16",
-                        "count": 16.67
+                        "count": 17.83
                     },
                     {
                         "month": "Mar'16",
-                        "count": 18.72
+                        "count": 20.44
                     },
                     {
                         "month": "Apr'16",
-                        "count": 18.84
+                        "count": 18.47
                     },
                     {
                         "month": "May'16",
-                        "count": 16.27
+                        "count": 19.5
                     }
                 ]
             },
@@ -378,51 +378,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 1.35
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 1.07
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 1.26
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 1.69
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 1.75
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 1.12
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 0.55
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 0.27
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 0.78
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 1.63
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 1
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 1.56
                     }
                 ]
             },
@@ -431,51 +431,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 0.51
+                        "count": 0.85
                     },
                     {
                         "month": "Jul'15",
-                        "count": 1.19
+                        "count": 1.66
                     },
                     {
                         "month": "Aug'15",
-                        "count": 1.53
+                        "count": 2.02
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.26
+                        "count": 1.84
                     },
                     {
                         "month": "Oct'15",
-                        "count": 2.83
+                        "count": 3.51
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.34
+                        "count": 2.38
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.31
+                        "count": 2.49
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.89
+                        "count": 2.12
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.26
+                        "count": 2.02
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.54
+                        "count": 3.41
                     },
                     {
                         "month": "Apr'16",
-                        "count": 2.08
+                        "count": 2.66
                     },
                     {
                         "month": "May'16",
-                        "count": 2.98
+                        "count": 4.52
                     }
                 ]
             },
@@ -484,51 +484,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 1.15
+                        "count": 1.52
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.82
+                        "count": 1.18
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.92
+                        "count": 1.26
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.03
+                        "count": 1.55
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.13
+                        "count": 1.28
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.67
+                        "count": 0.7
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.69
+                        "count": 0.83
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.47
+                        "count": 1.86
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.76
+                        "count": 1.24
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.21
+                        "count": 1.93
                     },
                     {
                         "month": "Apr'16",
-                        "count": 0.97
+                        "count": 1
                     },
                     {
                         "month": "May'16",
-                        "count": 1.15
+                        "count": 1.4
                     }
                 ]
             },
@@ -537,51 +537,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 1.53
+                        "count": 1.35
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.91
+                        "count": 1.18
                     },
                     {
                         "month": "Aug'15",
-                        "count": 1.12
+                        "count": 1.14
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.37
+                        "count": 1.13
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.42
+                        "count": 0.96
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.68
+                        "count": 1.54
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.01
+                        "count": 2.76
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.11
+                        "count": 1.86
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.39
+                        "count": 1.55
                     },
                     {
                         "month": "Mar'16",
-                        "count": 2.17
+                        "count": 1.04
                     },
                     {
                         "month": "Apr'16",
-                        "count": 1.11
+                        "count": 0.67
                     },
                     {
                         "month": "May'16",
-                        "count": 1.95
+                        "count": 1.72
                     }
                 ]
             },
@@ -590,51 +590,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 2.88
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.36
+                        "count": 2.61
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.1
+                        "count": 2.53
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 2.12
                     },
                     {
                         "month": "Oct'15",
-                        "count": 0.14
+                        "count": 1.91
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 2.24
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 3.04
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.47
+                        "count": 3.98
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 2.48
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.12
+                        "count": 3.26
                     },
                     {
                         "month": "Apr'16",
-                        "count": 0.14
+                        "count": 3.33
                     },
                     {
                         "month": "May'16",
-                        "count": 0.23
+                        "count": 3.74
                     }
                 ]
             },
@@ -643,51 +643,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 2.04
+                        "count": 3.21
                     },
                     {
                         "month": "Jul'15",
-                        "count": 1.28
+                        "count": 2.13
                     },
                     {
                         "month": "Aug'15",
-                        "count": 1.53
+                        "count": 2.53
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.37
+                        "count": 2.4
                     },
                     {
                         "month": "Oct'15",
-                        "count": 2.27
+                        "count": 3.03
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.12
+                        "count": 1.68
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.08
+                        "count": 2.76
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.05
+                        "count": 1.86
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.52
+                        "count": 2.48
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.33
+                        "count": 2.07
                     },
                     {
                         "month": "Apr'16",
-                        "count": 1.66
+                        "count": 2.33
                     },
                     {
                         "month": "May'16",
-                        "count": 1.15
+                        "count": 2.18
                     }
                 ]
             },
@@ -696,51 +696,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 3.58
+                        "count": 6.43
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.65
+                        "count": 6.04
                     },
                     {
                         "month": "Aug'15",
-                        "count": 3.37
+                        "count": 5.43
                     },
                     {
                         "month": "Sep'15",
-                        "count": 4.79
+                        "count": 6.78
                     },
                     {
                         "month": "Oct'15",
-                        "count": 3.97
+                        "count": 5.9
                     },
                     {
                         "month": "Nov'15",
-                        "count": 3.24
+                        "count": 5.04
                     },
                     {
                         "month": "Dec'15",
-                        "count": 5.56
+                        "count": 6.63
                     },
                     {
                         "month": "Jan'16",
-                        "count": 3.16
+                        "count": 5.31
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.78
+                        "count": 5.74
                     },
                     {
                         "month": "Mar'16",
-                        "count": 4.71
+                        "count": 6.67
                     },
                     {
                         "month": "Apr'16",
-                        "count": 4.43
+                        "count": 6.32
                     },
                     {
                         "month": "May'16",
-                        "count": 2.98
+                        "count": 5.3
                     }
                 ]
             },
@@ -749,51 +749,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 3.7
+                        "count": 9.81
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.47
+                        "count": 9.95
                     },
                     {
                         "month": "Aug'15",
-                        "count": 4.4
+                        "count": 10.48
                     },
                     {
                         "month": "Sep'15",
-                        "count": 3.54
+                        "count": 10.45
                     },
                     {
                         "month": "Oct'15",
-                        "count": 4.82
+                        "count": 9.09
                     },
                     {
                         "month": "Nov'15",
-                        "count": 4.92
+                        "count": 7.56
                     },
                     {
                         "month": "Dec'15",
-                        "count": 6.02
+                        "count": 9.39
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.53
+                        "count": 9.28
                     },
                     {
                         "month": "Feb'16",
-                        "count": 3.79
+                        "count": 7.75
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.86
+                        "count": 8.3
                     },
                     {
                         "month": "Apr'16",
-                        "count": 3.74
+                        "count": 9.48
                     },
                     {
                         "month": "May'16",
-                        "count": 3.55
+                        "count": 9.05
                     }
                 ]
             },
@@ -802,7 +802,7 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 0.17
                     },
                     {
                         "month": "Jul'15",
@@ -810,23 +810,23 @@ window.hnData = [
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.1
+                        "count": 0.25
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.11
-                    },
-                    {
-                        "month": "Oct'15",
                         "count": 0.14
                     },
                     {
+                        "month": "Oct'15",
+                        "count": 0.16
+                    },
+                    {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 0.28
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.23
+                        "count": 0.55
                     },
                     {
                         "month": "Jan'16",
@@ -834,19 +834,19 @@ window.hnData = [
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.25
+                        "count": 0.47
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.24
+                        "count": 0.3
                     },
                     {
                         "month": "Apr'16",
-                        "count": 0.14
+                        "count": 0.33
                     },
                     {
                         "month": "May'16",
-                        "count": 0.11
+                        "count": 0.31
                     }
                 ]
             },
@@ -855,51 +855,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 2.54
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 3.79
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 3.28
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 4.1
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 2.55
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 3.64
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 4.97
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 4.77
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 5.43
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 4.44
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 4.83
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 3.9
                     }
                 ]
             }
@@ -913,51 +913,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 6.9
+                        "count": 11.68
                     },
                     {
                         "month": "Jul'15",
-                        "count": 6.38
+                        "count": 9.48
                     },
                     {
                         "month": "Aug'15",
-                        "count": 7.57
+                        "count": 10.61
                     },
                     {
                         "month": "Sep'15",
-                        "count": 8.79
+                        "count": 12.29
                     },
                     {
                         "month": "Oct'15",
-                        "count": 10.34
+                        "count": 14.04
                     },
                     {
                         "month": "Nov'15",
-                        "count": 9.16
+                        "count": 12.61
                     },
                     {
                         "month": "Dec'15",
-                        "count": 13.19
+                        "count": 16.3
                     },
                     {
                         "month": "Jan'16",
-                        "count": 12.42
+                        "count": 15.92
                     },
                     {
                         "month": "Feb'16",
-                        "count": 12.5
+                        "count": 16.28
                     },
                     {
                         "month": "Mar'16",
-                        "count": 14.86
+                        "count": 17.19
                     },
                     {
                         "month": "Apr'16",
-                        "count": 13.43
+                        "count": 17.3
                     },
                     {
                         "month": "May'16",
-                        "count": 13.06
+                        "count": 19.66
                     }
                 ]
             },
@@ -966,51 +966,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 10.09
+                        "count": 13.87
                     },
                     {
                         "month": "Jul'15",
-                        "count": 10.03
+                        "count": 13.86
                     },
                     {
                         "month": "Aug'15",
-                        "count": 8.28
+                        "count": 11.62
                     },
                     {
                         "month": "Sep'15",
-                        "count": 7.65
+                        "count": 11.02
                     },
                     {
                         "month": "Oct'15",
-                        "count": 9.92
+                        "count": 12.12
                     },
                     {
                         "month": "Nov'15",
-                        "count": 7.04
+                        "count": 10.78
                     },
                     {
                         "month": "Dec'15",
-                        "count": 8.56
+                        "count": 12.15
                     },
                     {
                         "month": "Jan'16",
-                        "count": 9.05
+                        "count": 10.61
                     },
                     {
                         "month": "Feb'16",
-                        "count": 6.69
+                        "count": 9.61
                     },
                     {
                         "month": "Mar'16",
-                        "count": 7.73
+                        "count": 11.11
                     },
                     {
                         "month": "Apr'16",
-                        "count": 7.76
+                        "count": 10.48
                     },
                     {
                         "month": "May'16",
-                        "count": 7.33
+                        "count": 12.48
                     }
                 ]
             },
@@ -1019,51 +1019,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 2.43
+                        "count": 7.45
                     },
                     {
                         "month": "Jul'15",
-                        "count": 2.37
+                        "count": 5.33
                     },
                     {
                         "month": "Aug'15",
-                        "count": 2.35
+                        "count": 5.3
                     },
                     {
                         "month": "Sep'15",
-                        "count": 2.85
+                        "count": 5.23
                     },
                     {
                         "month": "Oct'15",
-                        "count": 3.4
+                        "count": 6.7
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.79
+                        "count": 4.62
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.24
+                        "count": 4.7
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.89
+                        "count": 4.24
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.14
+                        "count": 2.64
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.57
+                        "count": 3.56
                     },
                     {
                         "month": "Apr'16",
-                        "count": 3.05
+                        "count": 4.33
                     },
                     {
                         "month": "May'16",
-                        "count": 1.6
+                        "count": 2.65
                     }
                 ]
             },
@@ -1072,51 +1072,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 1.4
+                        "count": 11
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.82
+                        "count": 10.9
                     },
                     {
                         "month": "Aug'15",
-                        "count": 1.23
+                        "count": 9.72
                     },
                     {
                         "month": "Sep'15",
-                        "count": 1.14
+                        "count": 9.75
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.27
+                        "count": 9.57
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.78
+                        "count": 8.4
                     },
                     {
                         "month": "Dec'15",
-                        "count": 1.39
+                        "count": 8.84
                     },
                     {
                         "month": "Jan'16",
-                        "count": 0.21
+                        "count": 10.88
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.38
+                        "count": 7.91
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.48
+                        "count": 9.48
                     },
                     {
                         "month": "Apr'16",
-                        "count": 0.83
+                        "count": 10.48
                     },
                     {
                         "month": "May'16",
-                        "count": 0.69
+                        "count": 7.96
                     }
                 ]
             }
@@ -1130,51 +1130,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 3.32
+                        "count": 5.08
                     },
                     {
                         "month": "Jul'15",
-                        "count": 2.1
+                        "count": 3.44
                     },
                     {
                         "month": "Aug'15",
-                        "count": 2.25
+                        "count": 3.91
                     },
                     {
                         "month": "Sep'15",
-                        "count": 2.17
+                        "count": 3.81
                     },
                     {
                         "month": "Oct'15",
-                        "count": 3.54
+                        "count": 4.63
                     },
                     {
                         "month": "Nov'15",
-                        "count": 2.01
+                        "count": 2.94
                     },
                     {
                         "month": "Dec'15",
-                        "count": 5.32
+                        "count": 6.08
                     },
                     {
                         "month": "Jan'16",
-                        "count": 2.11
+                        "count": 3.18
                     },
                     {
                         "month": "Feb'16",
-                        "count": 3.16
+                        "count": 3.72
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.02
+                        "count": 4.15
                     },
                     {
                         "month": "Apr'16",
-                        "count": 2.77
+                        "count": 3.83
                     },
                     {
                         "month": "May'16",
-                        "count": 3.21
+                        "count": 4.37
                     }
                 ]
             },
@@ -1183,51 +1183,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 0.38
+                        "count": 0.68
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.27
+                        "count": 0.36
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.1
+                        "count": 0.13
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 0.14
                     },
                     {
                         "month": "Oct'15",
-                        "count": 0.28
+                        "count": 0.32
                     },
                     {
                         "month": "Nov'15",
-                        "count": 0.34
+                        "count": 0.28
                     },
                     {
                         "month": "Dec'15",
-                        "count": 0.23
+                        "count": 0.83
                     },
                     {
                         "month": "Jan'16",
-                        "count": 0.84
+                        "count": 1.33
                     },
                     {
                         "month": "Feb'16",
-                        "count": 0.51
+                        "count": 0.62
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.85
+                        "count": 1.19
                     },
                     {
                         "month": "Apr'16",
-                        "count": 1.39
+                        "count": 1.83
                     },
                     {
                         "month": "May'16",
-                        "count": 0.92
+                        "count": 1.56
                     }
                 ]
             },
@@ -1236,51 +1236,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 0.77
+                        "count": 1.52
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.64
+                        "count": 1.18
                     },
                     {
                         "month": "Aug'15",
-                        "count": 1.33
+                        "count": 2.02
                     },
                     {
                         "month": "Sep'15",
-                        "count": 0.91
+                        "count": 1.55
                     },
                     {
                         "month": "Oct'15",
-                        "count": 1.42
+                        "count": 2.23
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.34
+                        "count": 2.1
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.31
+                        "count": 3.04
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.47
+                        "count": 2.12
                     },
                     {
                         "month": "Feb'16",
-                        "count": 1.14
+                        "count": 2.48
                     },
                     {
                         "month": "Mar'16",
-                        "count": 1.93
+                        "count": 2.37
                     },
                     {
                         "month": "Apr'16",
-                        "count": 1.66
+                        "count": 2.83
                     },
                     {
                         "month": "May'16",
-                        "count": 2.41
+                        "count": 3.43
                     }
                 ]
             }
@@ -1294,51 +1294,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 15.84
+                        "count": 19.12
                     },
                     {
                         "month": "Jul'15",
-                        "count": 13.31
+                        "count": 18.25
                     },
                     {
                         "month": "Aug'15",
-                        "count": 15.44
+                        "count": 19.7
                     },
                     {
                         "month": "Sep'15",
-                        "count": 15.53
+                        "count": 19.63
                     },
                     {
                         "month": "Oct'15",
-                        "count": 17.28
+                        "count": 19.62
                     },
                     {
                         "month": "Nov'15",
-                        "count": 15.2
+                        "count": 21.01
                     },
                     {
                         "month": "Dec'15",
-                        "count": 18.29
+                        "count": 21.82
                     },
                     {
                         "month": "Jan'16",
-                        "count": 19.79
+                        "count": 24.14
                     },
                     {
                         "month": "Feb'16",
-                        "count": 16.92
+                        "count": 20.93
                     },
                     {
                         "month": "Mar'16",
-                        "count": 19.08
+                        "count": 22.81
                     },
                     {
                         "month": "Apr'16",
-                        "count": 15.51
+                        "count": 18.8
                     },
                     {
                         "month": "May'16",
-                        "count": 20.73
+                        "count": 23.87
                     }
                 ]
             },
@@ -1347,51 +1347,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 15.45
+                        "count": 20.3
                     },
                     {
                         "month": "Jul'15",
-                        "count": 19.87
+                        "count": 40.64
                     },
                     {
                         "month": "Aug'15",
-                        "count": 24.95
+                        "count": 47.47
                     },
                     {
                         "month": "Sep'15",
-                        "count": 27.17
+                        "count": 50.99
                     },
                     {
                         "month": "Oct'15",
-                        "count": 32.72
+                        "count": 54.7
                     },
                     {
                         "month": "Nov'15",
-                        "count": 27.82
+                        "count": 56.3
                     },
                     {
                         "month": "Dec'15",
-                        "count": 33.1
+                        "count": 60.77
                     },
                     {
                         "month": "Jan'16",
-                        "count": 34.11
+                        "count": 62.33
                     },
                     {
                         "month": "Feb'16",
-                        "count": 31.94
+                        "count": 58.6
                     },
                     {
                         "month": "Mar'16",
-                        "count": 28.99
+                        "count": 58.22
                     },
                     {
                         "month": "Apr'16",
-                        "count": 32.41
+                        "count": 60.73
                     },
                     {
                         "month": "May'16",
-                        "count": 36.31
+                        "count": 60.22
                     }
                 ]
             }
@@ -1405,51 +1405,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 13.28
+                        "count": 16.92
                     },
                     {
                         "month": "Jul'15",
-                        "count": 13.86
+                        "count": 17.06
                     },
                     {
                         "month": "Aug'15",
-                        "count": 15.03
+                        "count": 17.42
                     },
                     {
                         "month": "Sep'15",
-                        "count": 16.21
+                        "count": 19.35
                     },
                     {
                         "month": "Oct'15",
-                        "count": 19.55
+                        "count": 19.14
                     },
                     {
                         "month": "Nov'15",
-                        "count": 16.09
+                        "count": 16.95
                     },
                     {
                         "month": "Dec'15",
-                        "count": 15.97
+                        "count": 17.96
                     },
                     {
                         "month": "Jan'16",
-                        "count": 12.63
+                        "count": 15.92
                     },
                     {
                         "month": "Feb'16",
-                        "count": 13.38
+                        "count": 13.95
                     },
                     {
                         "month": "Mar'16",
-                        "count": 15.46
+                        "count": 15.85
                     },
                     {
                         "month": "Apr'16",
-                        "count": 13.99
+                        "count": 14.98
                     },
                     {
                         "month": "May'16",
-                        "count": 12.6
+                        "count": 16.54
                     }
                 ]
             },
@@ -1458,51 +1458,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 11.75
+                        "count": 13.71
                     },
                     {
                         "month": "Jul'15",
-                        "count": 12.22
+                        "count": 14.34
                     },
                     {
                         "month": "Aug'15",
-                        "count": 13.19
+                        "count": 14.27
                     },
                     {
                         "month": "Sep'15",
-                        "count": 14.61
+                        "count": 15.82
                     },
                     {
                         "month": "Oct'15",
-                        "count": 18.7
+                        "count": 15.95
                     },
                     {
                         "month": "Nov'15",
-                        "count": 17.09
+                        "count": 15.69
                     },
                     {
                         "month": "Dec'15",
-                        "count": 18.98
+                        "count": 15.47
                     },
                     {
                         "month": "Jan'16",
-                        "count": 12.42
+                        "count": 12.73
                     },
                     {
                         "month": "Feb'16",
-                        "count": 11.87
+                        "count": 11.63
                     },
                     {
                         "month": "Mar'16",
-                        "count": 15.46
+                        "count": 13.04
                     },
                     {
                         "month": "Apr'16",
-                        "count": 10.8
+                        "count": 11.15
                     },
                     {
                         "month": "May'16",
-                        "count": 9.74
+                        "count": 11.7
                     }
                 ]
             }
@@ -1516,51 +1516,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 6.51
+                        "count": 10.32
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.65
+                        "count": 8.18
                     },
                     {
                         "month": "Aug'15",
-                        "count": 5.73
+                        "count": 8.84
                     },
                     {
                         "month": "Sep'15",
-                        "count": 4.68
+                        "count": 8.05
                     },
                     {
                         "month": "Oct'15",
-                        "count": 8.22
+                        "count": 10.69
                     },
                     {
                         "month": "Nov'15",
-                        "count": 4.47
+                        "count": 6.44
                     },
                     {
                         "month": "Dec'15",
-                        "count": 6.94
+                        "count": 9.12
                     },
                     {
                         "month": "Jan'16",
-                        "count": 7.58
+                        "count": 9.81
                     },
                     {
                         "month": "Feb'16",
-                        "count": 7.32
+                        "count": 9.3
                     },
                     {
                         "month": "Mar'16",
-                        "count": 5.8
+                        "count": 8.44
                     },
                     {
                         "month": "Apr'16",
-                        "count": 6.51
+                        "count": 7.99
                     },
                     {
                         "month": "May'16",
-                        "count": 7.45
+                        "count": 10.76
                     }
                 ]
             },
@@ -1569,51 +1569,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 4.21
+                        "count": 5.92
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.38
+                        "count": 6.4
                     },
                     {
                         "month": "Aug'15",
-                        "count": 4.7
+                        "count": 6.31
                     },
                     {
                         "month": "Sep'15",
-                        "count": 4.11
+                        "count": 5.51
                     },
                     {
                         "month": "Oct'15",
-                        "count": 4.25
+                        "count": 6.06
                     },
                     {
                         "month": "Nov'15",
-                        "count": 3.8
+                        "count": 5.46
                     },
                     {
                         "month": "Dec'15",
-                        "count": 3.7
+                        "count": 4.7
                     },
                     {
                         "month": "Jan'16",
-                        "count": 3.58
+                        "count": 4.51
                     },
                     {
                         "month": "Feb'16",
-                        "count": 4.17
+                        "count": 5.43
                     },
                     {
                         "month": "Mar'16",
-                        "count": 4.47
+                        "count": 5.93
                     },
                     {
                         "month": "Apr'16",
-                        "count": 4.02
+                        "count": 5.49
                     },
                     {
                         "month": "May'16",
-                        "count": 3.55
+                        "count": 5.62
                     }
                 ]
             },
@@ -1622,51 +1622,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 0.85
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 1.07
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 1.01
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 1.41
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 0.96
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 0.56
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 0.83
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 0.8
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 0.62
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 0.59
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 1.5
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 1.56
                     }
                 ]
             },
@@ -1675,51 +1675,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 1.02
+                        "count": 0.85
                     },
                     {
                         "month": "Jul'15",
-                        "count": 0.55
+                        "count": 0.83
                     },
                     {
                         "month": "Aug'15",
-                        "count": 0.72
-                    },
-                    {
-                        "month": "Sep'15",
-                        "count": 0.23
-                    },
-                    {
-                        "month": "Oct'15",
-                        "count": 0.57
-                    },
-                    {
-                        "month": "Nov'15",
-                        "count": 1.23
-                    },
-                    {
-                        "month": "Dec'15",
-                        "count": 0.93
-                    },
-                    {
-                        "month": "Jan'16",
-                        "count": 0.84
-                    },
-                    {
-                        "month": "Feb'16",
                         "count": 0.51
                     },
                     {
-                        "month": "Mar'16",
-                        "count": 0.72
-                    },
-                    {
-                        "month": "Apr'16",
+                        "month": "Sep'15",
                         "count": 0.28
                     },
                     {
+                        "month": "Oct'15",
+                        "count": 0.48
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 0.7
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 0.83
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 1.06
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 0.47
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 0.44
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 0.33
+                    },
+                    {
                         "month": "May'16",
-                        "count": 0.11
+                        "count": 0.31
                     }
                 ]
             },
@@ -1728,51 +1728,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 5.75
+                        "count": 6.94
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.19
+                        "count": 5.21
                     },
                     {
                         "month": "Aug'15",
-                        "count": 4.29
+                        "count": 5.18
                     },
                     {
                         "month": "Sep'15",
-                        "count": 4
+                        "count": 4.66
                     },
                     {
                         "month": "Oct'15",
-                        "count": 3.82
+                        "count": 3.99
                     },
                     {
                         "month": "Nov'15",
-                        "count": 3.8
+                        "count": 4.34
                     },
                     {
                         "month": "Dec'15",
-                        "count": 4.17
+                        "count": 4.97
                     },
                     {
                         "month": "Jan'16",
-                        "count": 3.37
+                        "count": 4.24
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.78
+                        "count": 3.72
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.02
+                        "count": 3.56
                     },
                     {
                         "month": "Apr'16",
-                        "count": 4.16
+                        "count": 4.66
                     },
                     {
                         "month": "May'16",
-                        "count": 2.29
+                        "count": 3.59
                     }
                 ]
             },
@@ -1781,51 +1781,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 4.6
+                        "count": 7.45
                     },
                     {
                         "month": "Jul'15",
-                        "count": 4.19
+                        "count": 6.04
                     },
                     {
                         "month": "Aug'15",
-                        "count": 5.21
+                        "count": 7.2
                     },
                     {
                         "month": "Sep'15",
-                        "count": 4.68
+                        "count": 6.07
                     },
                     {
                         "month": "Oct'15",
-                        "count": 5.52
+                        "count": 6.54
                     },
                     {
                         "month": "Nov'15",
-                        "count": 4.13
+                        "count": 5.74
                     },
                     {
                         "month": "Dec'15",
-                        "count": 5.32
+                        "count": 6.63
                     },
                     {
                         "month": "Jan'16",
-                        "count": 3.79
+                        "count": 4.77
                     },
                     {
                         "month": "Feb'16",
-                        "count": 4.8
+                        "count": 6.51
                     },
                     {
                         "month": "Mar'16",
-                        "count": 3.74
+                        "count": 5.19
                     },
                     {
                         "month": "Apr'16",
-                        "count": 5.26
+                        "count": 6.66
                     },
                     {
                         "month": "May'16",
-                        "count": 4.35
+                        "count": 7.02
                     }
                 ]
             },
@@ -1834,51 +1834,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 1.66
+                        "count": 2.37
                     },
                     {
                         "month": "Jul'15",
-                        "count": 2.1
+                        "count": 2.73
                     },
                     {
                         "month": "Aug'15",
-                        "count": 2.25
+                        "count": 2.9
                     },
                     {
                         "month": "Sep'15",
-                        "count": 2.63
+                        "count": 3.25
                     },
                     {
                         "month": "Oct'15",
-                        "count": 2.83
+                        "count": 3.03
                     },
                     {
                         "month": "Nov'15",
-                        "count": 1.68
+                        "count": 1.96
                     },
                     {
                         "month": "Dec'15",
-                        "count": 2.31
+                        "count": 2.76
                     },
                     {
                         "month": "Jan'16",
-                        "count": 1.68
+                        "count": 2.12
                     },
                     {
                         "month": "Feb'16",
-                        "count": 2.02
+                        "count": 2.48
                     },
                     {
                         "month": "Mar'16",
-                        "count": 0.85
+                        "count": 0.89
                     },
                     {
                         "month": "Apr'16",
-                        "count": 1.94
+                        "count": 2.5
                     },
                     {
                         "month": "May'16",
-                        "count": 2.06
+                        "count": 2.5
                     }
                 ]
             }
@@ -1892,51 +1892,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 22
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 22.27
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 21.34
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 22.32
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 26.48
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 21.71
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 25.97
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 23.08
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 22.33
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 23.85
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 24.96
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 22.93
                     }
                 ]
             },
@@ -1945,51 +1945,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 3.05
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 3.91
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 4.8
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 4.1
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 3.51
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 3.64
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 3.31
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 4.24
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 3.1
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 3.85
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 3
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 2.18
                     }
                 ]
             },
@@ -1998,51 +1998,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 11
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 10.9
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 9.72
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 9.32
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 10.37
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 7.42
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 8.84
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 9.28
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 9.61
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 10.52
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 10.32
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 8.11
                     }
                 ]
             },
@@ -2051,51 +2051,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 8.97
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 9.12
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 9.09
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 10.03
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 9.57
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 8.68
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 10.77
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 10.34
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 9.77
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 9.19
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 9.32
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 10.3
                     }
                 ]
             },
@@ -2104,51 +2104,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": null
+                        "count": 3.38
                     },
                     {
                         "month": "Jul'15",
-                        "count": null
+                        "count": 3.08
                     },
                     {
                         "month": "Aug'15",
-                        "count": null
+                        "count": 3.91
                     },
                     {
                         "month": "Sep'15",
-                        "count": null
+                        "count": 5.51
                     },
                     {
                         "month": "Oct'15",
-                        "count": null
+                        "count": 4.78
                     },
                     {
                         "month": "Nov'15",
-                        "count": null
+                        "count": 4.34
                     },
                     {
                         "month": "Dec'15",
-                        "count": null
+                        "count": 3.04
                     },
                     {
                         "month": "Jan'16",
-                        "count": null
+                        "count": 2.92
                     },
                     {
                         "month": "Feb'16",
-                        "count": null
+                        "count": 3.26
                     },
                     {
                         "month": "Mar'16",
-                        "count": null
+                        "count": 4.15
                     },
                     {
                         "month": "Apr'16",
-                        "count": null
+                        "count": 4.49
                     },
                     {
                         "month": "May'16",
-                        "count": null
+                        "count": 4.52
                     }
                 ]
             },
@@ -2157,51 +2157,51 @@ window.hnData = [
                 "data": [
                     {
                         "month": "Jun'15",
-                        "count": 10.34
+                        "count": 11.51
                     },
                     {
                         "month": "Jul'15",
-                        "count": 10.94
+                        "count": 13.39
                     },
                     {
                         "month": "Aug'15",
-                        "count": 8.18
+                        "count": 10.23
                     },
                     {
                         "month": "Sep'15",
-                        "count": 7.76
+                        "count": 10.59
                     },
                     {
                         "month": "Oct'15",
-                        "count": 10.34
+                        "count": 9.73
                     },
                     {
                         "month": "Nov'15",
-                        "count": 7.71
+                        "count": 8.96
                     },
                     {
                         "month": "Dec'15",
-                        "count": 8.8
+                        "count": 9.39
                     },
                     {
                         "month": "Jan'16",
-                        "count": 7.58
+                        "count": 8.22
                     },
                     {
                         "month": "Feb'16",
-                        "count": 9.09
+                        "count": 9.77
                     },
                     {
                         "month": "Mar'16",
-                        "count": 8.21
+                        "count": 9.93
                     },
                     {
                         "month": "Apr'16",
-                        "count": 11.36
+                        "count": 13.31
                     },
                     {
                         "month": "May'16",
-                        "count": 9.97
+                        "count": 13.1
                     }
                 ]
             }

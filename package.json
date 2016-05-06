@@ -8,8 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.20.0",
     "request": "^2.69.0",
-    "striptags": "^2.1.1",
     "underscore": "^1.8.3"
   },
   "devDependencies": {

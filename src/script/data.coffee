@@ -51,7 +51,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 11.39
+                        "count": 11.37
                     }
                 ]
             },
@@ -104,7 +104,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 20.9
+                        "count": 20.87
                     }
                 ]
             },
@@ -210,7 +210,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 27.15
+                        "count": 27.1
                     }
                 ]
             },
@@ -316,7 +316,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 5.15
+                        "count": 5.14
                     }
                 ]
             },
@@ -369,7 +369,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 19.5
+                        "count": 19.47
                     }
                 ]
             },
@@ -581,7 +581,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 1.72
+                        "count": 1.71
                     }
                 ]
             },
@@ -793,7 +793,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 9.05
+                        "count": 9.03
                     }
                 ]
             },
@@ -899,7 +899,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 3.9
+                        "count": 3.89
                     }
                 ]
             }
@@ -957,7 +957,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 19.66
+                        "count": 19.78
                     }
                 ]
             },
@@ -1010,7 +1010,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 12.48
+                        "count": 12.46
                     }
                 ]
             },
@@ -1116,7 +1116,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 7.96
+                        "count": 7.94
                     }
                 ]
             }
@@ -1174,7 +1174,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 4.37
+                        "count": 4.36
                     }
                 ]
             },
@@ -1338,7 +1338,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 23.87
+                        "count": 23.83
                     }
                 ]
             },
@@ -1391,7 +1391,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 60.22
+                        "count": 60.12
                     }
                 ]
             }
@@ -1449,7 +1449,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 16.54
+                        "count": 16.51
                     }
                 ]
             },
@@ -1502,7 +1502,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 11.7
+                        "count": 11.68
                     }
                 ]
             }
@@ -1560,7 +1560,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 10.76
+                        "count": 10.75
                     }
                 ]
             },
@@ -1613,7 +1613,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 5.62
+                        "count": 5.61
                     }
                 ]
             },
@@ -1772,7 +1772,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 3.59
+                        "count": 3.58
                     }
                 ]
             },
@@ -1825,7 +1825,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 7.02
+                        "count": 7.01
                     }
                 ]
             },
@@ -1878,7 +1878,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 2.5
+                        "count": 2.49
                     }
                 ]
             }
@@ -1936,7 +1936,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 22.93
+                        "count": 23.05
                     }
                 ]
             },
@@ -2042,7 +2042,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 8.11
+                        "count": 8.1
                     }
                 ]
             },
@@ -2095,7 +2095,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 10.3
+                        "count": 10.28
                     }
                 ]
             },
@@ -2201,7 +2201,7 @@ window.hnData = [
                     },
                     {
                         "month": "May'16",
-                        "count": 13.1
+                        "count": 13.08
                     }
                 ]
             }

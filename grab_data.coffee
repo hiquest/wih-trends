@@ -23,17 +23,22 @@ countOccurrence = (items, patterns) ->
 round = (num) ->
   Math.round(num * 100) / 100
 
+topLevelThreads = (body) ->
+  $ = cheerio.load(body)
+  $('.athing td.ind img[width="0"]')
+    .toArray()
+    .map((x) -> $(x).parents('.athing'))
+
 fetchPages = (cb) ->
 
   fns = DATA_LINKS.map (dl) ->
     (done) ->
       req { url: dl.url }, (error, response, body) ->
-        throw "Could not download data from #{dl.url}" if error
-        $ = cheerio.load(body)
-        items = $('.athing td.ind img[width="0"]').toArray().map((x) -> $(x).parents('.athing'))
-        dl.items = items
-        dl.count = items.length
-        done()
+        if error
+          throw "Could not download data from #{dl.url}"
+        else
+          dl.threads = topLevelThreads(body)
+          done()
 
   async.series fns, cb
 
@@ -48,7 +53,7 @@ buildData = ->
           data: DATA_LINKS.map (dl) ->
             {
               month: dl.month,
-              count: round(countOccurrence(dl.items, patterns) / dl.count * 100)
+              count: round(countOccurrence(dl.threads, patterns) / dl.threads.length * 100)
             }
         }
     }

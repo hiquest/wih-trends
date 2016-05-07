@@ -42,12 +42,18 @@ fetchPages = (cb) ->
 
   async.series fns, cb
 
+wrap = (i) ->
+  if _.isArray(i)
+    i
+  else
+    [i]
+
 buildData = ->
   SLICES.map (sl) ->
     {
       slice: sl.slice,
       data: sl.items.map (itemOrItems) ->
-        patterns = if _.isArray(itemOrItems) then itemOrItems else [itemOrItems]
+        patterns = wrap(itemOrItems)
         {
           item: patterns[0],
           data: DATA_LINKS.map (dl) ->

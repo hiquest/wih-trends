@@ -2,11 +2,11 @@
   {
     "slice": "langs",
     "items": [
-      "ruby",
+      ["ruby", "jruby"],
       "python",
       "golang",
       "java",
-      "elixir",
+      ["elixir", "phoenix"],
       "php",
       "javascript",
       "objective-c",
@@ -35,12 +35,15 @@
     "items": [
       ["CoffeeScript", "Coffee"],
       "TypeScript",
-      ["EcmaScript2016", "es6", "es2015"]
+      ["EcmaScript2016", "es6", "es7", "es2015", "es2016"]
     ]
   },
   {
     "slice": "remoteVsOnsite",
-    "items": ["remote", "onsite"]
+    "items": [
+      "remote",
+      ["onsite", "on-site" ]
+    ]
   },
   {
     "slice": "mobile",

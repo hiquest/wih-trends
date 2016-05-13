@@ -13,7 +13,8 @@ var uglify = require('gulp-uglify');
 var concat = require('gulp-concat');
 var aws_creds = require('./aws.json');
 
-// Tasks
+
+// Task definitions
 gulp.task('clean', function(done) {
   return del(['./build'], done);
 });

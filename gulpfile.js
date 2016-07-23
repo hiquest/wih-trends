@@ -20,13 +20,13 @@ gulp.task('clean', function(done) {
 });
 
 gulp.task('markup', function() {
-  var sources = gulp.src(['./build/**/*.js', './build/**/*.css'], {read: false});
+  var sources = gulp.src(['./build/**/*.js', './build/**/*.css'], { read: false });
   return gulp.src('./src/*.html')
     .pipe(inject(sources, {ignorePath: '/build/'}))
     .pipe(gulp.dest('./build/'));
 });
 
-gulp.task('compile', function() {
+gulp.task('scripts', function() {
   return gulp.src('src/script/**/*.coffee')
     .pipe(coffee({bare: true}))
     .pipe(concat('all.js'))
@@ -43,7 +43,7 @@ gulp.task('styles', function () {
 });
 
 gulp.task('build', function(done) {
-  return run_sequence('clean', ['compile', 'styles'], 'markup', done);
+  return run_sequence('clean', ['scripts', 'styles'], 'markup', done);
 });
 
 gulp.task('serve', ['build'], function() {

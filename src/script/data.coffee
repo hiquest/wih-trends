@@ -55,7 +55,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 13.52
+                        "count": 13.22
                     }
                 ]
             },
@@ -112,7 +112,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 23.81
+                        "count": 23.13
                     }
                 ]
             },
@@ -169,7 +169,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.38
+                        "count": 4.35
                     }
                 ]
             },
@@ -226,7 +226,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 26.29
+                        "count": 26.78
                     }
                 ]
             },
@@ -283,7 +283,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.33
+                        "count": 1.57
                     }
                 ]
             },
@@ -340,7 +340,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.38
+                        "count": 4.35
                     }
                 ]
             },
@@ -397,7 +397,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 18.29
+                        "count": 18.09
                     }
                 ]
             },
@@ -454,7 +454,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.14
+                        "count": 1.04
                     }
                 ]
             },
@@ -511,7 +511,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 2.86
+                        "count": 2.78
                     }
                 ]
             },
@@ -568,7 +568,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.76
+                        "count": 0.7
                     }
                 ]
             },
@@ -625,7 +625,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.76
+                        "count": 0.7
                     }
                 ]
             },
@@ -682,7 +682,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 2.67
+                        "count": 2.61
                     }
                 ]
             },
@@ -739,7 +739,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.14
+                        "count": 1.22
                     }
                 ]
             },
@@ -796,7 +796,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 5.9
+                        "count": 5.74
                     }
                 ]
             },
@@ -853,7 +853,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 10.1
+                        "count": 9.74
                     }
                 ]
             },
@@ -910,7 +910,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.19
+                        "count": 0.17
                     }
                 ]
             },
@@ -967,7 +967,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.19
+                        "count": 4.17
                     }
                 ]
             }
@@ -1029,7 +1029,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 22.1
+                        "count": 22.61
                     }
                 ]
             },
@@ -1086,7 +1086,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 12.57
+                        "count": 12.35
                     }
                 ]
             },
@@ -1143,7 +1143,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4
+                        "count": 3.83
                     }
                 ]
             },
@@ -1200,7 +1200,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 11.05
+                        "count": 10.96
                     }
                 ]
             }
@@ -1262,7 +1262,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 3.62
+                        "count": 3.65
                     }
                 ]
             },
@@ -1319,7 +1319,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.33
+                        "count": 1.39
                     }
                 ]
             },
@@ -1438,7 +1438,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 20.76
+                        "count": 20.52
                     }
                 ]
             },
@@ -1495,7 +1495,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 69.9
+                        "count": 69.39
                     }
                 ]
             }
@@ -1557,7 +1557,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 14.48
+                        "count": 13.74
                     }
                 ]
             },
@@ -1614,7 +1614,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 11.24
+                        "count": 10.96
                     }
                 ]
             }
@@ -1676,7 +1676,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 13.52
+                        "count": 13.57
                     }
                 ]
             },
@@ -1733,7 +1733,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 6.67
+                        "count": 6.61
                     }
                 ]
             },
@@ -1790,7 +1790,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.76
+                        "count": 0.87
                     }
                 ]
             },
@@ -1847,7 +1847,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.19
+                        "count": 0.17
                     }
                 ]
             },
@@ -1904,7 +1904,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.57
+                        "count": 5.04
                     }
                 ]
             },
@@ -1961,7 +1961,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 8.38
+                        "count": 7.65
                     }
                 ]
             },
@@ -2018,7 +2018,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 2.48
+                        "count": 2.26
                     }
                 ]
             }
@@ -2080,7 +2080,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 26.67
+                        "count": 26.78
                     }
                 ]
             },
@@ -2137,7 +2137,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 3.81
+                        "count": 3.83
                     }
                 ]
             },
@@ -2194,7 +2194,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 10.29
+                        "count": 10.78
                     }
                 ]
             },
@@ -2251,7 +2251,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 9.14
+                        "count": 8.87
                     }
                 ]
             },
@@ -2308,7 +2308,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.95
+                        "count": 4.7
                     }
                 ]
             },
@@ -2365,7 +2365,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 10.48
+                        "count": 10.96
                     }
                 ]
             }

@@ -6,6 +6,18 @@ window.hnData = [
                 "item": "ruby",
                 "data": [
                     {
+                        "month": "Jun'15",
+                        "count": 10.76
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 13.27
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 14.14
+                    },
+                    {
                         "month": "Sep'15",
                         "count": 13.86
                     },
@@ -63,6 +75,18 @@ window.hnData = [
                 "item": "python",
                 "data": [
                     {
+                        "month": "Jun'15",
+                        "count": 20.49
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 20.97
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 22.22
+                    },
+                    {
                         "month": "Sep'15",
                         "count": 22.63
                     },
@@ -112,13 +136,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 23.19
+                        "count": 23.02
                     }
                 ]
             },
             {
                 "item": "golang",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 3.97
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.42
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.63
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.27
@@ -169,13 +205,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.11
+                        "count": 3.97
                     }
                 ]
             },
             {
                 "item": "java",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 24.97
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 27.61
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 27.27
+                    },
                     {
                         "month": "Sep'15",
                         "count": 26.31
@@ -226,13 +274,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 27.3
+                        "count": 27.14
                     }
                 ]
             },
             {
                 "item": "elixir",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.66
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.07
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.01
+                    },
                     {
                         "month": "Sep'15",
                         "count": 0.85
@@ -283,13 +343,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.48
+                        "count": 1.43
                     }
                 ]
             },
             {
                 "item": "php",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 6.4
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 6.52
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 6.57
+                    },
                     {
                         "month": "Sep'15",
                         "count": 6.93
@@ -340,13 +412,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.61
+                        "count": 4.76
                     }
                 ]
             },
             {
                 "item": "javascript",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 16.13
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 20.26
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 19.57
+                    },
                     {
                         "month": "Sep'15",
                         "count": 17.96
@@ -397,13 +481,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 18.59
+                        "count": 18.57
                     }
                 ]
             },
             {
                 "item": "objective-c",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.54
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.07
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.26
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.7
@@ -454,13 +550,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.99
+                        "count": 1.11
                     }
                 ]
             },
             {
                 "item": "swift",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 2.94
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.66
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.02
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.84
@@ -511,13 +619,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 2.96
+                        "count": 3.02
                     }
                 ]
             },
             {
                 "item": "erlang",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.02
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.18
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.26
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.56
@@ -568,13 +688,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.66
+                        "count": 0.63
                     }
                 ]
             },
             {
                 "item": "haskell",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.66
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.18
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.14
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.13
@@ -625,13 +757,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.66
+                        "count": 0.63
                     }
                 ]
             },
             {
                 "item": "rust",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 3.33
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 2.61
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.53
+                    },
                     {
                         "month": "Sep'15",
                         "count": 2.12
@@ -682,13 +826,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 2.47
+                        "count": 2.38
                     }
                 ]
             },
             {
                 "item": "coffeescript",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.41
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 2.13
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.53
+                    },
                     {
                         "month": "Sep'15",
                         "count": 2.4
@@ -739,13 +895,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.32
+                        "count": 1.27
                     }
                 ]
             },
             {
                 "item": "c++",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 6.53
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 6.04
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 5.43
+                    },
                     {
                         "month": "Sep'15",
                         "count": 6.65
@@ -796,13 +964,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 6.09
+                        "count": 6.03
                     }
                 ]
             },
             {
                 "item": "scala",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 9.35
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 9.95
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 10.48
+                    },
                     {
                         "month": "Sep'15",
                         "count": 10.47
@@ -853,13 +1033,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 9.87
+                        "count": 9.84
                     }
                 ]
             },
             {
                 "item": "closure",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 0.26
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": null
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.25
+                    },
                     {
                         "month": "Sep'15",
                         "count": 0.14
@@ -918,6 +1110,18 @@ window.hnData = [
                 "item": "c#",
                 "data": [
                     {
+                        "month": "Jun'15",
+                        "count": 3.33
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 3.79
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 3.28
+                    },
+                    {
                         "month": "Sep'15",
                         "count": 4.1
                     },
@@ -967,7 +1171,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.28
+                        "count": 4.6
                     }
                 ]
             }
@@ -979,6 +1183,18 @@ window.hnData = [
             {
                 "item": "ReactJS",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 18.31
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 9.48
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 10.61
+                    },
                     {
                         "month": "Sep'15",
                         "count": 12.31
@@ -1029,13 +1245,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 22.37
+                        "count": 22.06
                     }
                 ]
             },
             {
                 "item": "AngularJS",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 9.48
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 13.86
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 11.62
+                    },
                     {
                         "month": "Sep'15",
                         "count": 11.03
@@ -1086,13 +1314,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 11.84
+                        "count": 11.75
                     }
                 ]
             },
             {
                 "item": "backbone",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.92
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 5.33
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 5.3
+                    },
                     {
                         "month": "Sep'15",
                         "count": 5.23
@@ -1143,13 +1383,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 3.78
+                        "count": 3.65
                     }
                 ]
             },
             {
                 "item": "ember",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 8.96
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 10.9
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 9.72
+                    },
                     {
                         "month": "Sep'15",
                         "count": 9.76
@@ -1200,7 +1452,214 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 10.53
+                        "count": 10.16
+                    }
+                ]
+            },
+            {
+                "item": "jquery",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 2.3
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 3.44
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.9
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 3.82
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 4.94
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 1.96
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 1.93
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 3.45
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 2.64
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 2.67
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 2.66
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 2.4
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 2.3
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 1.73
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 2.43
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 2.38
+                    }
+                ]
+            },
+            {
+                "item": "Knockout",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 0.26
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 0.47
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.38
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 0.28
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 0.32
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 0.56
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 0.28
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": null
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": null
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 0.44
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 0.33
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 0.45
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 0.26
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 0.29
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 0.13
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 0.48
+                    }
+                ]
+            },
+            {
+                "item": "Node.js",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 11.01
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 11.61
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 12.5
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 12.31
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 12.28
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 11.06
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 10.22
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 8.49
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 10.54
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 10.96
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 12.98
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 11.68
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 11.01
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 12.84
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 11.59
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 12.22
                     }
                 ]
             }
@@ -1212,6 +1671,18 @@ window.hnData = [
             {
                 "item": "CoffeeScript",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 2.94
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 3.44
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 3.91
+                    },
                     {
                         "month": "Sep'15",
                         "count": 3.82
@@ -1262,13 +1733,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 3.62
+                        "count": 3.49
                     }
                 ]
             },
             {
                 "item": "TypeScript",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.92
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 0.36
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.13
+                    },
                     {
                         "month": "Sep'15",
                         "count": 0.14
@@ -1319,13 +1802,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 1.64
+                        "count": 1.59
                     }
                 ]
             },
             {
                 "item": "EcmaScript2016",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 3.07
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.18
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.02
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.56
@@ -1376,7 +1871,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 3.95
+                        "count": 3.81
                     }
                 ]
             }
@@ -1388,6 +1883,18 @@ window.hnData = [
             {
                 "item": "remote",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 22.28
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 18.25
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 19.7
+                    },
                     {
                         "month": "Sep'15",
                         "count": 19.66
@@ -1438,13 +1945,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 20.72
+                        "count": 20.95
                     }
                 ]
             },
             {
                 "item": "onsite",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 66.84
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 46.33
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 52.27
+                    },
                     {
                         "month": "Sep'15",
                         "count": 54.03
@@ -1495,7 +2014,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 69.74
+                        "count": 69.52
                     }
                 ]
             }
@@ -1507,6 +2026,18 @@ window.hnData = [
             {
                 "item": "ios",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 13.06
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 17.06
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 17.42
+                    },
                     {
                         "month": "Sep'15",
                         "count": 19.38
@@ -1565,6 +2096,18 @@ window.hnData = [
                 "item": "android",
                 "data": [
                     {
+                        "month": "Jun'15",
+                        "count": 10.88
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 14.34
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 14.27
+                    },
+                    {
                         "month": "Sep'15",
                         "count": 15.84
                     },
@@ -1614,7 +2157,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 10.86
+                        "count": 10.95
                     }
                 ]
             }
@@ -1626,6 +2169,18 @@ window.hnData = [
             {
                 "item": "PostgreSQL",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 10.88
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 8.18
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 8.84
+                    },
                     {
                         "month": "Sep'15",
                         "count": 8.06
@@ -1676,13 +2231,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 13.65
+                        "count": 13.33
                     }
                 ]
             },
             {
                 "item": "MySql",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 5.12
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 6.4
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 6.31
+                    },
                     {
                         "month": "Sep'15",
                         "count": 5.52
@@ -1733,13 +2300,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 6.91
+                        "count": 6.83
                     }
                 ]
             },
             {
                 "item": "sql server",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 0.64
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 1.07
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.01
+                    },
                     {
                         "month": "Sep'15",
                         "count": 1.41
@@ -1790,13 +2369,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 0.82
+                        "count": 0.79
                     }
                 ]
             },
             {
                 "item": "Oracle",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 0.26
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 0.83
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.51
+                    },
                     {
                         "month": "Sep'15",
                         "count": 0.28
@@ -1855,6 +2446,18 @@ window.hnData = [
                 "item": "MongoDB",
                 "data": [
                     {
+                        "month": "Jun'15",
+                        "count": 3.46
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 5.21
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 5.18
+                    },
+                    {
                         "month": "Sep'15",
                         "count": 4.67
                     },
@@ -1904,13 +2507,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 5.43
+                        "count": 5.4
                     }
                 ]
             },
             {
                 "item": "redis",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 6.02
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 6.04
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 7.2
+                    },
                     {
                         "month": "Sep'15",
                         "count": 6.08
@@ -1961,13 +2576,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 7.73
+                        "count": 7.46
                     }
                 ]
             },
             {
                 "item": "cassandra",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.79
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 2.73
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.9
+                    },
                     {
                         "month": "Sep'15",
                         "count": 3.25
@@ -2018,7 +2645,7 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 2.14
+                        "count": 2.06
                     }
                 ]
             }
@@ -2030,6 +2657,18 @@ window.hnData = [
             {
                 "item": "Software Engineer",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 25.22
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 22.27
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 21.34
+                    },
                     {
                         "month": "Sep'15",
                         "count": 22.35
@@ -2080,13 +2719,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 26.81
+                        "count": 26.98
                     }
                 ]
             },
             {
                 "item": "Software Developer",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 4.74
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 3.91
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 4.8
+                    },
                     {
                         "month": "Sep'15",
                         "count": 4.1
@@ -2137,13 +2788,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 3.95
+                        "count": 4.13
                     }
                 ]
             },
             {
                 "item": "Full-stack",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 10.12
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 10.9
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 9.72
+                    },
                     {
                         "month": "Sep'15",
                         "count": 9.34
@@ -2194,13 +2857,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 10.69
+                        "count": 10.32
                     }
                 ]
             },
             {
                 "item": "Data Scien",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 7.55
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 9.12
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 9.09
+                    },
                     {
                         "month": "Sep'15",
                         "count": 10.04
@@ -2251,13 +2926,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 8.39
+                        "count": 8.1
                     }
                 ]
             },
             {
                 "item": "Data Engineer",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 4.87
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 3.08
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 3.91
+                    },
                     {
                         "month": "Sep'15",
                         "count": 5.52
@@ -2308,13 +2995,25 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 4.93
+                        "count": 4.76
                     }
                 ]
             },
             {
                 "item": "Devops",
                 "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 11.65
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 13.39
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 10.23
+                    },
                     {
                         "month": "Sep'15",
                         "count": 10.47
@@ -2365,7 +3064,702 @@ window.hnData = [
                     },
                     {
                         "month": "Sep'16",
-                        "count": 11.02
+                        "count": 11.11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "slice": "City",
+        "data": [
+            {
+                "item": "Berlin",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 3.07
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 2.37
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 2.65
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 1.7
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 3.19
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 3.08
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 5.25
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 3.18
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 3.1
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 2.22
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 2
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 2.69
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 3.07
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 2.31
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 2.83
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 2.54
+                    }
+                ]
+            },
+            {
+                "item": "London",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 8.32
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 7.7
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 8.08
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 6.22
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 6.22
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 7.28
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 8.56
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 8.22
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 7.44
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 7.41
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 6.32
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 6.44
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 8.32
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 8.8
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 8.63
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 9.37
+                    }
+                ]
+            },
+            {
+                "item": "Paris",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.41
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 0.95
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.39
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 0.99
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 1.28
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 1.4
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 1.1
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 1.86
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 1.24
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 1.33
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 1.16
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 1.35
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 1.41
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 1.59
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 1.35
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 2.22
+                    }
+                ]
+            },
+            {
+                "item": "San Francisco",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 21.9
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 20.26
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 22.1
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 21.64
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 24.4
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 21.01
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 23.76
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 22.28
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 21.55
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 22.37
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 23.79
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 23.35
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 21.9
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 22.51
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 21.29
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 23.65
+                    }
+                ]
+            },
+            {
+                "item": "Portland",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.28
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 0.71
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.25
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 0.57
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 0.8
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 0.84
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 0.83
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 0.8
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 0.31
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 0.89
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 1
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 1.05
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 1.28
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 1.01
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 0.67
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 1.11
+                    }
+                ]
+            },
+            {
+                "item": "New York",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 11.01
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 9.48
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 8.21
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 9.05
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 9.89
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 8.12
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 10.5
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 13.53
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 10.7
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 11.11
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 10.32
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 10.03
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 11.01
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 8.95
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 9.84
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 11.9
+                    }
+                ]
+            },
+            {
+                "item": "Seattle",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 3.59
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 4.03
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 4.92
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 3.39
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 3.35
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 3.36
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 4.42
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 5.31
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 4.34
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 4.59
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 4.49
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 4.64
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 3.59
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 3.32
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 3.23
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 4.76
+                    }
+                ]
+            },
+            {
+                "item": "San Diego",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 1.02
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 0.83
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 0.13
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 0.71
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 0.64
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 0.7
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 0.83
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 0.53
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 1.4
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 1.04
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 0.67
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 0.75
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 1.02
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 0.72
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 0.81
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 1.27
+                    }
+                ]
+            },
+            {
+                "item": "Los Angeles",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 2.56
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 2.73
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 1.64
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 2.26
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 2.23
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 3.36
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 4.42
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 1.59
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 3.88
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 2.22
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 3.33
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 1.95
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 2.56
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 2.16
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 2.16
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 2.06
+                    }
+                ]
+            },
+            {
+                "item": "Boston",
+                "data": [
+                    {
+                        "month": "Jun'15",
+                        "count": 4.87
+                    },
+                    {
+                        "month": "Jul'15",
+                        "count": 4.74
+                    },
+                    {
+                        "month": "Aug'15",
+                        "count": 4.55
+                    },
+                    {
+                        "month": "Sep'15",
+                        "count": 4.67
+                    },
+                    {
+                        "month": "Oct'15",
+                        "count": 4.94
+                    },
+                    {
+                        "month": "Nov'15",
+                        "count": 7.14
+                    },
+                    {
+                        "month": "Dec'15",
+                        "count": 5.25
+                    },
+                    {
+                        "month": "Jan'16",
+                        "count": 4.77
+                    },
+                    {
+                        "month": "Feb'16",
+                        "count": 4.19
+                    },
+                    {
+                        "month": "Mar'16",
+                        "count": 4
+                    },
+                    {
+                        "month": "Apr'16",
+                        "count": 4.99
+                    },
+                    {
+                        "month": "May'16",
+                        "count": 5.09
+                    },
+                    {
+                        "month": "Jun'16",
+                        "count": 4.87
+                    },
+                    {
+                        "month": "Jul'16",
+                        "count": 5.48
+                    },
+                    {
+                        "month": "Aug'16",
+                        "count": 5.12
+                    },
+                    {
+                        "month": "Sep'16",
+                        "count": 5.56
                     }
                 ]
             }

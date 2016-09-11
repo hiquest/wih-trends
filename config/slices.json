@@ -24,10 +24,13 @@
   {
     "slice": "jsFrameworks",
     "items": [
-      ["ReactJS", "react"],
+      ["ReactJS", "react", "react.js"],
       ["AngularJS", "angular"],
       "backbone",
-      "ember"
+      "ember",
+      "jquery",
+      "Knockout",
+      ["Node.js", "Node", "nodejs"]
     ]
   },
   {
@@ -69,6 +72,21 @@
       "Data Scien",
       "Data Engineer",
       "Devops"
+    ]
+  },
+  {
+    "slice": "City",
+    "items": [
+      "Berlin",
+      "London",
+      "Paris",
+      "San Francisco",
+      "Portland",
+      "New York",
+      "Seattle",
+      "San Diego",
+      "Los Angeles",
+      "Boston"
     ]
   }
 ]

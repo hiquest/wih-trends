@@ -21,3 +21,4 @@ $ ->
   drawChart($('#mobile'), 'Mobile', hnData[4].data)
   drawChart($('#databases'), 'Databases', hnData[5].data)
   drawChart($('#professions'), 'Professions', hnData[6].data)
+  drawChart($('#cities'), 'Cities', hnData[7].data)

@@ -82,11 +82,13 @@
       "Paris",
       "San Francisco",
       "Portland",
-      "New York",
+      ["New York", "NYC"],
       "Seattle",
       "San Diego",
       "Los Angeles",
-      "Boston"
+      "Boston",
+      "Chicago",
+      "Amsterdam"
     ]
   }
 ]

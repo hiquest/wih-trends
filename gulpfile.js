@@ -1,7 +1,6 @@
 // Imports
 var gulp = require('gulp');
 var del = require('del');
-var coffee = require('gulp-coffee');
 var sass = require('gulp-sass');
 var run_sequence = require('run-sequence');
 var connect = require('gulp-connect');
@@ -26,8 +25,7 @@ gulp.task('markup', function() {
 });
 
 gulp.task('scripts', function() {
-  return gulp.src('src/script/**/*.coffee')
-    .pipe(coffee({bare: true}))
+  return gulp.src('src/script/**/*.js')
     .pipe(concat('all.js'))
     .pipe(uglify())
     .pipe(hash())

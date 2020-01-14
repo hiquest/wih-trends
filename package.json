@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "data": "node grab_data.js > src/script/data.js",
-    "build": "build.sh"
+    "data": "node grab_data.js > src/script/data.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^3.1.0",
     "cheerio": "^0.20.0",
     "request": "^2.72.0",
     "underscore": "^1.8.3"

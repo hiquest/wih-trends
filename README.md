@@ -7,14 +7,7 @@ Take a look at current hiring trends at [Who Is Hiring Trends website](http://wi
 Here we are trying to analyse these posts and draw an overall "trends" picture.
 
 # Usage
-Prerequisites:
-  `npm install -g coffee-script gulp`
-
-Fetch and parse data from HN posts:
-  `coffee grab_data.coffee > src/script/data.coffee`
-
-Build and run site locally on port 8080:
-  `gulp serve`
+See `package.json`.
 
 # Contributing
 Feel free to fork, hack and send pull-requests.

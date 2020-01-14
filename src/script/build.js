@@ -7,6 +7,8 @@ $(()=> {
   drawChart($('#databases'), 'Databases', hnData[5].data)
   drawChart($('#professions'), 'Professions', hnData[6].data)
   drawChart($('#cities'), 'Cities', hnData[7].data)
+  drawChart($('#cloud'), 'Cloud', hnData[8].data)
+  drawChart($('#web-frameworks'), 'Web Frameworks', hnData[9].data)
 })
 
 function drawChart($cont, title, data) {

@@ -227,7 +227,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 8.06
+                        "count": 6.67
                     }
                 ]
             },
@@ -456,7 +456,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 27.42
+                        "count": 28.89
                     }
                 ]
             },
@@ -685,7 +685,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 4.84
+                        "count": 4.44
                     }
                 ]
             },
@@ -914,7 +914,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 21.51
+                        "count": 22.78
                     }
                 ]
             },
@@ -1143,7 +1143,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 3.76
+                        "count": 3.33
                     }
                 ]
             },
@@ -1372,7 +1372,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 4.84
+                        "count": 4.44
                     }
                 ]
             },
@@ -1601,7 +1601,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 13.44
+                        "count": 14.44
                     }
                 ]
             },
@@ -1830,7 +1830,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -2059,7 +2059,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 3.76
+                        "count": 2.78
                     }
                 ]
             },
@@ -2746,7 +2746,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 7.53
+                        "count": 7.78
                     }
                 ]
             },
@@ -3204,7 +3204,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 5.38
+                        "count": 6.11
                     }
                 ]
             },
@@ -3433,7 +3433,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 9.14
+                        "count": 10
                     }
                 ]
             },
@@ -3662,7 +3662,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -3891,7 +3891,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.69
+                        "count": 3.33
                     }
                 ]
             }
@@ -4125,7 +4125,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 33.33
+                        "count": 33.89
                     }
                 ]
             },
@@ -4354,7 +4354,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.15
+                        "count": 1.67
                     }
                 ]
             },
@@ -4583,7 +4583,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -4812,7 +4812,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 7.53
+                        "count": 6.67
                     }
                 ]
             },
@@ -5041,7 +5041,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 1.08
+                        "count": 1.11
                     }
                 ]
             },
@@ -5499,7 +5499,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 17.2
+                        "count": 15.56
                     }
                 ]
             },
@@ -5728,7 +5728,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 4.3
+                        "count": 3.89
                     }
                 ]
             }
@@ -6191,7 +6191,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 12.9
+                        "count": 13.33
                     }
                 ]
             },
@@ -6420,7 +6420,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.15
+                        "count": 1.67
                     }
                 ]
             }
@@ -6654,7 +6654,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 41.94
+                        "count": 44.44
                     }
                 ]
             },
@@ -6883,7 +6883,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 69.89
+                        "count": 70.56
                     }
                 ]
             }
@@ -7117,7 +7117,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 11.83
+                        "count": 10
                     }
                 ]
             },
@@ -7346,7 +7346,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 9.68
+                        "count": 8.89
                     }
                 ]
             }
@@ -7580,7 +7580,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 15.05
+                        "count": 16.11
                     }
                 ]
             },
@@ -7809,7 +7809,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 3.76
+                        "count": 3.89
                     }
                 ]
             },
@@ -8038,7 +8038,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -8267,7 +8267,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 1.11
                     }
                 ]
             },
@@ -8496,7 +8496,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.69
+                        "count": 2.78
                     }
                 ]
             },
@@ -8725,7 +8725,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 6.99
+                        "count": 7.22
                     }
                 ]
             },
@@ -8954,7 +8954,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -9183,7 +9183,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 3.23
+                        "count": 3.33
                     }
                 ]
             }
@@ -9417,7 +9417,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 40.32
+                        "count": 40.56
                     }
                 ]
             },
@@ -9646,7 +9646,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.69
+                        "count": 2.78
                     }
                 ]
             },
@@ -9875,7 +9875,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 13.44
+                        "count": 13.33
                     }
                 ]
             },
@@ -10104,7 +10104,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 9.68
+                        "count": 10
                     }
                 ]
             },
@@ -10333,7 +10333,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 5.91
+                        "count": 6.11
                     }
                 ]
             },
@@ -10562,7 +10562,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 10.75
+                        "count": 10
                     }
                 ]
             }
@@ -10796,7 +10796,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 5.38
+                        "count": 5.56
                     }
                 ]
             },
@@ -11025,7 +11025,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 6.99
+                        "count": 7.22
                     }
                 ]
             },
@@ -11254,7 +11254,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.69
+                        "count": 3.33
                     }
                 ]
             },
@@ -11483,7 +11483,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 16.67
+                        "count": 16.11
                     }
                 ]
             },
@@ -11712,7 +11712,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -11941,7 +11941,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 12.9
+                        "count": 12.78
                     }
                 ]
             },
@@ -12170,7 +12170,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 4.84
+                        "count": 3.89
                     }
                 ]
             },
@@ -12399,7 +12399,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 0.54
+                        "count": 0.56
                     }
                 ]
             },
@@ -12628,7 +12628,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.15
+                        "count": 1.67
                     }
                 ]
             },
@@ -12857,7 +12857,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 4.84
+                        "count": 3.89
                     }
                 ]
             },
@@ -13086,7 +13086,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 1.08
+                        "count": 1.11
                     }
                 ]
             },
@@ -13315,7 +13315,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 1.08
+                        "count": 1.11
                     }
                 ]
             }
@@ -13549,7 +13549,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 1.08
+                        "count": 1.11
                     }
                 ]
             },
@@ -13778,7 +13778,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 2.69
+                        "count": 2.78
                     }
                 ]
             },
@@ -14007,7 +14007,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 16.13
+                        "count": 17.22
                     }
                 ]
             },
@@ -14236,7 +14236,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 1.08
+                        "count": 1.11
                     }
                 ]
             }
@@ -14470,7 +14470,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 4.3
+                        "count": 5
                     }
                 ]
             },
@@ -14699,7 +14699,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 3.23
+                        "count": 2.78
                     }
                 ]
             },
@@ -15157,7 +15157,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 1.61
+                        "count": 1.67
                     }
                 ]
             },
@@ -15386,7 +15386,7 @@ window.hnData = [
                     },
                     {
                         "month": "Jan'20",
-                        "count": 6.45
+                        "count": 6.11
                     }
                 ]
             }

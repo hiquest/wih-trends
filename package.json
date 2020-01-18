@@ -3,16 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "data": "node grab_data.js > src/script/data.js"
+    "data": "node grab_data.js",
+    "serve": "http-server src"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.1.0",
     "cheerio": "^0.20.0",
-    "request": "^2.72.0",
-    "underscore": "^1.8.3"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "underscore": "^1.9.2"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
 }

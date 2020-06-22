@@ -18,7 +18,8 @@
       "c++",
       "scala",
       "closure",
-      "c#"
+      "c#",
+      "kotlin",
     ]
   },
   {
@@ -31,7 +32,8 @@
       "jquery",
       "Knockout",
       ["Node.js", "Node", "nodejs"],
-      ["Vue", "vuejs", "vue.js"]
+      ["Vue", "vuejs", "vue.js"],
+      ["StimulusJS", "stimulus"]
     ]
   },
   {
@@ -91,7 +93,11 @@
       "Los Angeles",
       "Boston",
       "Chicago",
-      "Amsterdam"
+      "Amsterdam",
+      "Salzburg",
+      "Graz",
+      "Mountain View",
+      "Geneva"
     ]
   },
   {
@@ -111,7 +117,8 @@
       "Express",
       "Koa",
       "Phoenix",
-      "Rails"
+      "Rails",
+      "Flask"
     ]
   }
 ]

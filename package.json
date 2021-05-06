@@ -12,7 +12,7 @@
     "cheerio": "^0.20.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "keywords": [],
   "description": "",
